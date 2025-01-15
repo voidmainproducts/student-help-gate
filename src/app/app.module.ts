@@ -10,6 +10,10 @@ import {HttpClientModule} from "@angular/common/http";
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
+import { LoadingComponent } from './components/loading/loading.component';
+import { NoticesComponent } from './components/notices/notices.component';
+import { ChartsComponent } from './components/charts/charts.component';
+import { HomeComponent } from './components/home/home.component';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -32,7 +36,11 @@ const analytics = getAnalytics(app);
 @NgModule({
   declarations: [
     AppComponent,
-    ItemListComponent
+    ItemListComponent,
+    LoadingComponent,
+    NoticesComponent,
+    ChartsComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

@@ -1,5 +1,5 @@
 <div class="container">
-  <h2>TRE 3 District Allocation</h2>
+<!--  <h2>TRE 3 District Allocation</h2>-->
 <!--  <p>Total Visitors: {{ visitorCount }}</p>-->
 
   <div class="filters">
@@ -17,15 +17,15 @@
       <option value="all">All Districts</option>
       <option *ngFor="let district of districts" [value]="district">{{ district }}</option>
     </select>
-  </div>
 
-  <input
-    type="text"
-    placeholder="Search items..."
-    [(ngModel)]="searchTerm"
-    (input)="filterItems()"
-    class="search-box"
-  />
+      <input
+              type="text"
+              placeholder="Search items..."
+              [(ngModel)]="searchTerm"
+              (input)="filterItems()"
+              class="filter search-box"
+      />
+  </div>
 
   <div>
     Found {{filteredItems.length}} results

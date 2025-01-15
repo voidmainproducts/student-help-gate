@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { VisitorTrackingService } from '../../services/visitor-tracking.service';
+import {LoadingService} from "../../services/loading/loading.service";
 
 @Component({
   selector: 'app-item-list',
@@ -18,20 +19,28 @@ export class ItemListComponent implements OnInit {
   selectedDistrict = 'all';
   searchTerm = '';
   visitorCount = 0;
+  dataURL = '/assets/data.json';
 
   constructor(
     private http: HttpClient,
-    private visitorService: VisitorTrackingService
+    private visitorService: VisitorTrackingService,
+    private loadingService: LoadingService
   ) {}
 
   ngOnInit(): void {
     this.visitorService.incrementVisitor();
     this.visitorCount = this.visitorService.getVisitorCount();
 
-    this.http.get<any[]>('/assets/data.json').subscribe((data) => {
+    this.loadingService.show();
+
+    this.http.get<any[]>(this.dataURL).subscribe((data) => {
       this.items = data;
       this.filteredItems = data;
       this.updateDropdowns();
+      this.loadingService.hide();
+    }, error => {
+      console.error(error);
+      this.loadingService.hide();
     });
   }
 
@@ -76,7 +85,6 @@ export class ItemListComponent implements OnInit {
           .join(' ')
           .toLowerCase()
           .includes(this.searchTerm.toLowerCase());
-
       return matchesFilters && matchesSearch;
     });
 
