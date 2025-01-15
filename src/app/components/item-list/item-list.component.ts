@@ -90,4 +90,12 @@ export class ItemListComponent implements OnInit {
 
     this.updateDropdowns();
   }
+
+  resetFilters() {
+    this.selectedClass = "all";
+    this.selectedSubject = "all";
+    this.selectedDistrict = "all";
+    this.searchTerm = '';
+    this.filteredItems = this.items;
+  }
 }

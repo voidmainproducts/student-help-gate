@@ -18,6 +18,10 @@
       <option *ngFor="let district of districts" [value]="district">{{ district }}</option>
     </select>
 
+      <button class="reset-all" (click)="resetFilters()">
+          Reset all
+      </button>
+
       <input
               type="text"
               placeholder="Search items..."
