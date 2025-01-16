@@ -20,6 +20,7 @@ export class ItemListComponent implements OnInit {
   searchTerm = '';
   visitorCount = 0;
   dataURL = '/assets/data.json';
+  fullData:any = [];
 
   constructor(
     private http: HttpClient,
