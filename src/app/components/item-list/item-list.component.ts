@@ -21,6 +21,8 @@ export class ItemListComponent implements OnInit {
   visitorCount = 0;
   dataURL = '/assets/data.json';
   fullData:any = [];
+  p=1;
+  itemPerPage: number = 20;
 
   constructor(
     private http: HttpClient,
@@ -90,6 +92,7 @@ export class ItemListComponent implements OnInit {
     });
 
     this.updateDropdowns();
+    this.p =1;
   }
 
   resetFilters() {

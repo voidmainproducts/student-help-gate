@@ -45,8 +45,8 @@
     </tr>
     </thead>
     <tbody>
-    <tr *ngFor="let item of filteredItems;let i = index;">
-      <td>{{ i+1 }}</td>
+    <tr *ngFor="let item of filteredItems | paginate: { itemsPerPage: itemPerPage, currentPage: p };let i = index;">
+      <td>{{ ((p-1)*itemPerPage + (i+1)) }}</td>
       <td>{{ item.rollNo }}</td>
       <td>{{ item.districtName }}</td>
       <td>{{ item.class }}</td>
@@ -54,4 +54,6 @@
     </tr>
     </tbody>
   </table>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+
 </div>

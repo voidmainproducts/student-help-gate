@@ -3,17 +3,18 @@
 
     <!-- Left Navigation -->
     <nav class="side-nav" [class.collapsed]="isCollapsed">
+        <button class="toggle-btn" (click)="toggleNav()">☰</button>
+
         <ul>
             <li [routerLinkActive]="'active'" [routerLink]="'/'">Home</li>
             <li [routerLinkActive]="'active'" [routerLink]="'/notices'">Notices</li>
         </ul>
-        <button class="toggle-btn" (click)="toggleNav()">☰</button>
     </nav>
     <!-- Main Content -->
     <div class="content">
-<!--                <header class="banner">-->
-<!--                    <h3>{{ bannerMessage }}</h3>-->
-<!--                </header>-->
+        <header class="banner">
+            <h3>{{ bannerMessage }}</h3>
+        </header>
         <router-outlet></router-outlet>
     </div>
 </div>

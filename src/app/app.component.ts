@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'student-help';
   isCollapsed = false;
-  bannerMessage = 'Welcome to the Dashboard!';
+  bannerMessage = 'This site is not affiliated with BPSC. Its a personal project to help students in their journey';
 
   toggleNav() {
     this.isCollapsed = !this.isCollapsed;
