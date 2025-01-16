@@ -83,11 +83,14 @@ export class ItemListComponent implements OnInit {
         (this.selectedSubject === 'all' || item.subject === this.selectedSubject) &&
         (this.selectedDistrict === 'all' || item.districtName === this.selectedDistrict);
 
+      // const matchesSearch =
+      //   Object.values(item)
+      //     .join(' ')
+      //     .toLowerCase()
+      //     .includes(this.searchTerm.toLowerCase());
       const matchesSearch =
-        Object.values(item)
-          .join(' ')
-          .toLowerCase()
-          .includes(this.searchTerm.toLowerCase());
+          item.rollNo.toString().toLowerCase()
+              .includes(this.searchTerm.toLowerCase());
       return matchesFilters && matchesSearch;
     });
 
