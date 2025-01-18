@@ -1,0 +1,5 @@
+<div>
+    <li *ngFor="let exam of exams">
+        <a class="exam-link" (click)="onSelectExam(exam.id)">{{exam.examName}}</a>
+    </li>
+</div>

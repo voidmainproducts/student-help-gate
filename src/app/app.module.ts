@@ -16,6 +16,9 @@ import { ChartsComponent } from './components/charts/charts.component';
 import { HomeComponent } from './components/home/home.component';
 import {NgxPaginationModule} from "ngx-pagination";
 import { FooterComponent } from './components/footer/footer.component';
+import { EstimateExamScoreListComponent } from './components/estimate-exam-score-list/estimate-exam-score-list.component';
+import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
+import { EstimateScoreComponent } from './components/estimate-score/estimate-score.component';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -43,7 +46,10 @@ const analytics = getAnalytics(app);
     NoticesComponent,
     ChartsComponent,
     HomeComponent,
-    FooterComponent
+    FooterComponent,
+    EstimateExamScoreListComponent,
+    PageNotFoundComponent,
+    EstimateScoreComponent
   ],
   imports: [
     BrowserModule,

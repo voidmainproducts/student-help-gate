@@ -1,0 +1,31 @@
+<div class="exam-container">
+    <h2>{{ exam.examName }}</h2>
+
+    <div *ngIf="isSubmitted">
+        <h3>Score: {{scoreData?.score}}</h3>
+    </div>
+    <form (ngSubmit)="onSubmit()" [ngClass]="{'disabled':isSubmitted}">
+        <div *ngFor="let question of exam.questions" class="question-block">
+<!--            <p>{{ question.questionNumber }}. {{ question.questionText }}</p>-->
+            <div>
+                <span class="option-key">{{ question.questionNumber }}.</span>
+                <span *ngFor="let option of question.options" class="option-block">
+                    <input
+                            type="radio"
+                            [name]="'question_' + question.questionNumber"
+                            [value]="option[0]"
+                            [(ngModel)]="userResponses[question.questionNumber]"
+                            [ngClass]="{'selected': option[0] === userResponses[question.questionNumber],
+                            'correct':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answer === option[0],
+                            'incorrect':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answer !== option[0]}"
+                    />
+                    <label class="option-key">{{ option }}</label>
+                </span> <button type="button" *ngIf="!isSubmitted">clear</button>
+            </div>
+        </div>
+        <br/>
+        <button type="submit" *ngIf="!isSubmitted">Submit</button>
+    </form>
+    <button type="button" *ngIf="isSubmitted" (click)="restart()">Restart</button>
+
+</div>

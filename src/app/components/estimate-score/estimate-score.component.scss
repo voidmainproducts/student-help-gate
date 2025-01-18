@@ -1,0 +1,33 @@
+.option-key {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+/* Base styles for radio buttons */
+input[type="radio"] {
+  -webkit-appearance: none; /* Remove default browser styling */
+  appearance: none;
+  width: 15px; /* Adjust size as needed */
+  height: 15px;
+  border: 2px solid #ccc; /* Border color */
+  border-radius: 50%;
+  margin-right: 5px;
+  transition: all 0.2s ease; /* Smooth transitions */
+}
+
+input[type="radio"]:checked {
+  background-color: #4b6ef3; /* Blue color */
+  border-color: #007bff;
+}
+.correct {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}
+.incorrect{
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+}
+form.disabled {
+  pointer-events: none;
+  opacity: 0.6; /* Optional: Reduce opacity for visual feedback */
+}
