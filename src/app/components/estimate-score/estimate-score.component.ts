@@ -25,25 +25,25 @@ export class EstimateScoreComponent implements OnInit {
     console.log(this.exam);
   }
 
-  onSubmit() {
-    const score = this.calculateScore();
+  onSubmit(setKey:string) {
+    const score = this.calculateScore(setKey);
     this.examScoreEstimateService.saveHistory({
       examName: this.exam.examName,
       date: new Date().toISOString(),
       responses: this.userResponses,
       score
     });
-    this.scoreData = { exam: this.exam, userResponses: this.userResponses, score };
+    this.scoreData = {setKey:setKey, exam: this.exam, userResponses: this.userResponses, score, maxScore: this.exam.data[setKey].length*this.exam.markingScheme.correct };
     console.log(this.scoreData);
     this.isSubmitted = true;
     // this.router.navigate(['/result'], { state: { exam: this.exam, userResponses: this.userResponses, score } });
   }
 
-  calculateScore() {
+  calculateScore(setKey:string) {
     let score = 0;
-    this.exam.questions.forEach((q: any) => {
+    this.exam.data[setKey].forEach((q: any) => {
       const userAnswer = this.userResponses[q.questionNumber];
-      if (userAnswer === q.answer) {
+      if (userAnswer === q.answerKey) {
         score += this.exam.markingScheme.correct;
       } else if (userAnswer) {
         score += this.exam.markingScheme.incorrect;
@@ -58,4 +58,6 @@ export class EstimateScoreComponent implements OnInit {
       this.router.navigateByUrl("/estimate-score/"+this.exam.id);
     });
   }
+
+  protected readonly Object = Object;
 }

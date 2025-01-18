@@ -1,23 +1,24 @@
 <div class="exam-container">
     <h2>{{ exam.examName }}</h2>
+    <h3>SET - {{'E'}}</h3>
 
     <div *ngIf="isSubmitted">
-        <h3>Score: {{scoreData?.score}}</h3>
+        <h3>Score: {{scoreData?.score}}/{{scoreData.maxScore}}</h3>
     </div>
-    <form (ngSubmit)="onSubmit()" [ngClass]="{'disabled':isSubmitted}">
-        <div *ngFor="let question of exam.questions" class="question-block">
+    <form (ngSubmit)="onSubmit('E')" [ngClass]="{'disabled':isSubmitted}">
+        <div *ngFor="let question of exam.data['E']" class="question-block">
 <!--            <p>{{ question.questionNumber }}. {{ question.questionText }}</p>-->
             <div>
                 <span class="option-key">{{ question.questionNumber }}.</span>
-                <span *ngFor="let option of question.options" class="option-block">
+                <span *ngFor="let option of exam.options" class="option-block">
                     <input
                             type="radio"
                             [name]="'question_' + question.questionNumber"
                             [value]="option[0]"
                             [(ngModel)]="userResponses[question.questionNumber]"
                             [ngClass]="{'selected': option[0] === userResponses[question.questionNumber],
-                            'correct':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answer === option[0],
-                            'incorrect':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answer !== option[0]}"
+                            'correct':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answerKey === option[0],
+                            'incorrect':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answerKey !== option[0]}"
                     />
                     <label class="option-key">{{ option }}</label>
                 </span> <button type="button" *ngIf="!isSubmitted">clear</button>

@@ -1,6 +1,7 @@
 .option-key {
   font-size: 20px;
-  margin-right: 10px;
+  margin-right: 20px;
+  max-width: 10px;
 }
 
 /* Base styles for radio buttons */
@@ -12,6 +13,7 @@ input[type="radio"] {
   border: 2px solid #ccc; /* Border color */
   border-radius: 50%;
   margin-right: 5px;
+  cursor: pointer;
   transition: all 0.2s ease; /* Smooth transitions */
 }
 
@@ -29,5 +31,5 @@ input[type="radio"]:checked {
 }
 form.disabled {
   pointer-events: none;
-  opacity: 0.6; /* Optional: Reduce opacity for visual feedback */
+  opacity: 0.4; /* Optional: Reduce opacity for visual feedback */
 }
