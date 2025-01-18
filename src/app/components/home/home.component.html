@@ -1,21 +1,21 @@
 <div class="tabs">
-            <button
-                    class="tab"
-                    [class.active]="activeTab === 1"
-                    (click)="selectTab(1)"
-            >
-                TRE 3 District Allocation for Counselling
-            </button>
-            <button
-                    class="tab"
-                    [class.active]="activeTab === 2"
-                    (click)="selectTab(2)"
-            >
-                Distribution Chart
-            </button>
-        </div>
+    <button
+            class="tab"
+            [class.active]="activeTab === 1"
+            (click)="selectTab(1)"
+    >
+        TRE 3 District Allocation for Counselling
+    </button>
+    <button
+            class="tab"
+            [class.active]="activeTab === 2"
+            (click)="selectTab(2)"
+    >
+        Distribution Chart
+    </button>
+</div>
 
-        <div class="tab-content">
-            <app-item-list *ngIf="activeTab === 1"></app-item-list>
-            <app-charts *ngIf="activeTab === 2"></app-charts>
-        </div>
+<div class="tab-content">
+    <app-item-list *ngIf="activeTab === 1"></app-item-list>
+    <app-charts *ngIf="activeTab === 2"></app-charts>
+</div>

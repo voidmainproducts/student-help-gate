@@ -15,6 +15,7 @@ import { NoticesComponent } from './components/notices/notices.component';
 import { ChartsComponent } from './components/charts/charts.component';
 import { HomeComponent } from './components/home/home.component';
 import {NgxPaginationModule} from "ngx-pagination";
+import { FooterComponent } from './components/footer/footer.component';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -41,7 +42,8 @@ const analytics = getAnalytics(app);
     LoadingComponent,
     NoticesComponent,
     ChartsComponent,
-    HomeComponent
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

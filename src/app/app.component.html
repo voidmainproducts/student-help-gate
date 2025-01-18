@@ -13,7 +13,10 @@
     <!-- Main Content -->
     <div class="content">
         <header class="banner">
-            <div class="disclaimer">
+            <button (click)="this.banner = !this.banner">
+                <i class="fa fa-info-circle"></i>
+            </button>
+            <div class="disclaimer" *ngIf="this.banner">
                 <p>The information provided on this website is compiled from various sources, including the <a href="https://bpsc.bihar.gov.in" target="_blank">BPSC official website</a> (https://bpsc.bihar.gov.in). While we strive to ensure the accuracy of the information presented, we cannot guarantee its completeness or flawlessness.
                 We recommend that you always refer to the <a href="https://bpsc.bihar.gov.in" target="_blank">BPSC official website</a> for the most up-to-date and authoritative information on exams, notifications, and other relevant announcements.
                 </p>
@@ -23,3 +26,6 @@
         <router-outlet></router-outlet>
     </div>
 </div>
+<app-footer></app-footer>
+
+
