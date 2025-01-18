@@ -1,0 +1,338 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "640559",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "653976",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "847819",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "849169",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "851042",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "851064",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "851119",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "858766",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "858783",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "858818",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "858820",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "858897",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "862274",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "862332",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "863760",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "863801",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "867539",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "872218",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "872302",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "872333",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "877579",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "877600",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "877627",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "877637",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "880757",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "884330",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "886812",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "892563",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "892567",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "892687",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "892885",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "892907",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "900420",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "902405",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "902441",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "906565",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "912579",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "915163",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "915174",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "919785",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "919831",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "919869",
+    "districtName": "Arwal",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "919930",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "923213",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "929946",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "930045",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "930095",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Physical Education"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "930138",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Physical Education"
+  }
+]

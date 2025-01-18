@@ -1,0 +1,394 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "531182",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "531517",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "566224",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "572751",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "575046",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "576462",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "590695",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "602317",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "604433",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "626478",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "643660",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "711079",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "898672",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "930781",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "935807",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "935808",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "935811",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "935813",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "935814",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "935815",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "935816",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "935817",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "939299",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "939301",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "939302",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "943484",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "943487",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "943488",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "943492",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "946923",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "946924",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "946925",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "946926",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "946927",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "946928",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "946929",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "950283",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "950284",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "950285",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "950288",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "950289",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "950292",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "950293",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "950295",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "950298",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "950299",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "950301",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "953590",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "953592",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "953593",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "953594",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "956959",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "956960",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "961789",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "961790",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Philosophy"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "961792",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Philosophy"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "933419",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Bhojpuri"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "938033",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Bhojpuri"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "955474",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Bhojpuri"
+  }
+]

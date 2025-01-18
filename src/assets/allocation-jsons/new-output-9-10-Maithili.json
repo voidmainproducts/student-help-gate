@@ -1,0 +1,352 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "572665",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "573465",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "573910",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "574413",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "574695",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "576450",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "577283",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "577708",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "581667",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "582225",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "582983",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "583359",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "584040",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "626751",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "850997",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "877674",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "877675",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "877679",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "877680",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "877682",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "877683",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "877684",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "877687",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "877698",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "877700",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "877701",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "880805",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "880806",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "880809",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "880810",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "880817",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "880824",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "880833",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "880834",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "880835",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "880836",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "880842",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "880843",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "880845",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "880850",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "880851",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "880852",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "880856",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "880858",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "882059",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "882062",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "884371",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "886869",
+    "districtName": "Purnia",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "892988",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "900464",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Maithili"
+  }
+]

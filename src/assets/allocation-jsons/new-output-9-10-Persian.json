@@ -1,0 +1,100 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "559785",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "568612",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "579093",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "595368",
+    "districtName": "Purnia",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "595434",
+    "districtName": "Purnia",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "620413",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "622255",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "655226",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "852804",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "852805",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "878669",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "882852",
+    "districtName": "Purnia",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "888877",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "909061",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Persian"
+  }
+]

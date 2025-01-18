@@ -1,0 +1,2305 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "520746",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "529487",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "529673",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "529890",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "530154",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "530219",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "530240",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "530657",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "530816",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "531538",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "532050",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "532287",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "532467",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "532699",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "533110",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "533395",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "533411",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "533470",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "533487",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "533553",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "533761",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "533770",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "533788",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "533948",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "534027",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "534233",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "534276",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "534295",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "534377",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "534514",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "534573",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "534901",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "534961",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "535061",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "535166",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "563694",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "563867",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "563942",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "564316",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "564649",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "565043",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "565325",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "565534",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "565544",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "566082",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "566254",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "567092",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "568240",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "572371",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "572456",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "572510",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "572944",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "572957",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "573056",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "573082",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "573345",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "573455",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "573770",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "573849",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "573889",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "573918",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "573964",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "574088",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "574412",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "574685",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "574770",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "575131",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "575611",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "575730",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "576002",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "576304",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "576971",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "576972",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "577879",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "587419",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "587587",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "587703",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "590846",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "590967",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "591901",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "592109",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "592171",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "592624",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "592691",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "592785",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "593273",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "593320",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "593591",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "593659",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "608423",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "608522",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "608548",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "608757",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "608836",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "608891",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "608958",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "609012",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "609199",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "609608",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "609843",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "610094",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "610358",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "610436",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "610598",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "610703",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "611063",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "611597",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "611601",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "611664",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "611699",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "611738",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "612089",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "612403",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "621242",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "621323",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "624775",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "625369",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "625771",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "626159",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "626167",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "626289",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "626807",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "626904",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "627041",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "627118",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "627200",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "627368",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "627478",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "628034",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "628107",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "628751",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "628854",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "638878",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "643637",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "643946",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "644110",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "644199",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "644313",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "644343",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "644348",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "645008",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "645611",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "645697",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "645743",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "702964",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "703213",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "703339",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "708650",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "709456",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "709741",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "709871",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "710066",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "712072",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "712407",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "712431",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "712636",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "712800",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "712990",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "713068",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "713182",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "713618",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "713731",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "851629",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "852032",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "856329",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "856378",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "856730",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "857358",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "857810",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "857839",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "858251",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "858474",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "871499",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "871694",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "872702",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "875793",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "875868",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "875980",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "876281",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "876500",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "876594",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "877160",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "877305",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "883481",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "883656",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "883767",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "883805",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "883892",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "884281",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "890589",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "890739",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "891255",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "892055",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "892143",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "898574",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "899182",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "899251",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "905199",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "905226",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "905263",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "905661",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "905920",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "905970",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "906016",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "925667",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "928045",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "928763",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "928997",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "930641",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "935326",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "935346",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "935356",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "935364",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "935402",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "935414",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "935415",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "935425",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "935428",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "935442",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "935470",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "935478",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "935488",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "935495",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "935497",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "935500",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "935519",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "935540",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "939028",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "939042",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "939073",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "939074",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "939088",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "939089",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "939097",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "939100",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "939104",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "939112",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "939114",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "939116",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "939120",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "939142",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "939144",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "939151",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "943063",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "943066",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "943068",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "943096",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "943112",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "943116",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "943133",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "943141",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "943162",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "943164",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "943165",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "943177",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "943186",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "943193",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "943201",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "943202",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "943205",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "943229",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "943246",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "943251",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "946655",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "946685",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "946689",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "946693",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "946714",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "946722",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "946732",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "946765",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "946775",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "946777",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "946796",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "949912",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "949917",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "949951",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "949955",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "949958",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "949973",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "949976",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "949983",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "950011",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "950028",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "950046",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "950051",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "950065",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "950106",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "950118",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "950122",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "950127",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "950130",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "953233",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "953265",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "953278",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "953287",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "953314",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "953330",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "953339",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "953372",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "953380",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "953384",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "953385",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "953387",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "953390",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "956680",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "956700",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "956708",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "956710",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "956721",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "956742",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "956766",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "956789",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "956792",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "961516",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "961537",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "961553",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "961568",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "961576",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "961577",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "961581",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "961585",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "961586",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "961598",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "961616",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "962699",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "962702",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "962704",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Economics"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "962706",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Economics"
+  }
+]

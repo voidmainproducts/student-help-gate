@@ -1,0 +1,51 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "873663",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "873667",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "882787",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "888641",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "888650",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "941193",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Bangla"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "948496",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Bangla"
+  }
+]

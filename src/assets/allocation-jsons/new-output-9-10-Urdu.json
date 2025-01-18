@@ -1,0 +1,5637 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "501241",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "501307",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "501313",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "501319",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "501328",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "501378",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "501386",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "503414",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "503417",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "508296",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "508302",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "508360",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "508381",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "508412",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "508417",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "516455",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "516496",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "516499",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "516502",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "516503",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "516509",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "516525",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "519338",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "522813",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "522814",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "522840",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "522851",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "522862",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "522865",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "522903",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "522931",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "522932",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "522947",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "522953",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "522964",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "522991",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "522998",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "523038",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "536840",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "536845",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "536852",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "536880",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "536899",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "542771",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "542772",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "549919",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "549953",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "550032",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "550049",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "550073",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "550112",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "559733",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "559734",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "559748",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "559751",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "559754",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "559771",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "559773",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "559781",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "559799",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "559828",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "559831",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "568384",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "568389",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "568399",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "568407",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "568420",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "568422",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "568432",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "568434",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "568449",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "568456",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "568466",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "568487",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "568490",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "568501",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "568515",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "568521",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "568544",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "568547",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "568549",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "568550",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "568561",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "568575",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "568584",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "568586",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "568598",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "568606",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "568613",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "568615",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "568617",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "568624",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "568627",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "568628",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "579033",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "579046",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "579049",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "579055",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "579062",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "579068",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "579091",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "579136",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "579143",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "579144",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "579154",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "579155",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "579160",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "579161",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "579171",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "579187",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "579188",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "579204",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "579217",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "579218",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "579223",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "579231",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "584909",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "584910",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "584915",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "584935",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "588250",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "588255",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "588257",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "588260",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "588264",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "588267",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "588269",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "588273",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "588278",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "588288",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "588291",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "588292",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "588304",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "588309",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "588312",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "588317",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "588336",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "588361",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "588364",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "588377",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "588380",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "588390",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "588393",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "588398",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "588400",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "588405",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "588414",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "588431",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "588433",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "588446",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "588479",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "588486",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "588512",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "588516",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "588529",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "588543",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "588547",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "588558",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "588564",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "588567",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "588572",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "588577",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "588583",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "588584",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "588586",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "588589",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "588595",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "588599",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "588610",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "588625",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "588626",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "589070",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "589075",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "589082",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "589083",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "589085",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "589087",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "595300",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "595306",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "595355",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "595360",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "595440",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "595447",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "595449",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "595454",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "595475",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "595480",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "595485",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "595490",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "595496",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "595497",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "595506",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "595513",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "595525",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "595539",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "595559",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "595563",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "595568",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "595573",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "595592",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "595605",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "595615",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "595616",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "595657",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "595665",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "595667",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "595669",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "595678",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "595690",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "595712",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "595728",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "595734",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "598609",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "603943",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "603949",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "603958",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "603964",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "603966",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "603972",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "603991",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "603992",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "604012",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "604024",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "604033",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "604038",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "604042",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "604047",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "604048",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "604053",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "604067",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "604068",
+    "districtName": "Sheikhpura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "604070",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "604073",
+    "districtName": "Sheikhpura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "604089",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "604099",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "604108",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "604136",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "604139",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "604143",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "604147",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "613456",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "613461",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "613462",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "613464",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "613469",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "613471",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "613482",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "613507",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "613517",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "613548",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "613594",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "618006",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "618013",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "618022",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "618026",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "618031",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "618058",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "618064",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "622234",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "622243",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "622251",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "622256",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "622265",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "622267",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "622269",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "622276",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "622280",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "622315",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "622323",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "622335",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "622340",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "622344",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "629726",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "629747",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "629769",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "629790",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "629801",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "629817",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "634921",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "634927",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "634933",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "634942",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "634946",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "634953",
+    "districtName": "Sheikhpura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "634954",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "634957",
+    "districtName": "Sheikhpura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "634960",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "634964",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "634974",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "634984",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "639963",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "639981",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "639993",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "640001",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "640007",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "647507",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "647512",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "647519",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "647540",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "647556",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "647564",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "647569",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "647598",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "647648",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "655046",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "655049",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "655064",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "655069",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "655091",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "655092",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "655099",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "655105",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "655112",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "655129",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "655139",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "655154",
+    "districtName": "Arwal",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "655161",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "655166",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "655176",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "655177",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "655206",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "655211",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "655225",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "655229",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "655234",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "655242",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "662923",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "666730",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "666754",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "666770",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "677559",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "677579",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "677586",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "677589",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "677599",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "677603",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "677625",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "677626",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "677633",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "687129",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "687172",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "687173",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "687187",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "687221",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "694826",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "694830",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "694831",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "694836",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "694853",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "694883",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "694887",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "694900",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "701970",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "701979",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "701987",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "701990",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "702011",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "702012",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "702014",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "702046",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "702048",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "702066",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "364",
+    "rollNo": "703057",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "365",
+    "rollNo": "709876",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "366",
+    "rollNo": "710235",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "367",
+    "rollNo": "758802",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "368",
+    "rollNo": "763083",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "369",
+    "rollNo": "778833",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "370",
+    "rollNo": "846527",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "371",
+    "rollNo": "846530",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "372",
+    "rollNo": "846538",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "373",
+    "rollNo": "846539",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "374",
+    "rollNo": "846549",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "375",
+    "rollNo": "848029",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "376",
+    "rollNo": "848043",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "377",
+    "rollNo": "848053",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "378",
+    "rollNo": "848059",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "379",
+    "rollNo": "848063",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "380",
+    "rollNo": "848066",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "381",
+    "rollNo": "848068",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "382",
+    "rollNo": "849539",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "383",
+    "rollNo": "849540",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "384",
+    "rollNo": "849546",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "385",
+    "rollNo": "849547",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "386",
+    "rollNo": "849553",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "387",
+    "rollNo": "849561",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "388",
+    "rollNo": "849574",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "389",
+    "rollNo": "850975",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "390",
+    "rollNo": "850976",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "391",
+    "rollNo": "852530",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "392",
+    "rollNo": "852534",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "393",
+    "rollNo": "852537",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "394",
+    "rollNo": "852539",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "395",
+    "rollNo": "852541",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "396",
+    "rollNo": "852550",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "397",
+    "rollNo": "852555",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "398",
+    "rollNo": "852556",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "399",
+    "rollNo": "852557",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "400",
+    "rollNo": "852561",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "401",
+    "rollNo": "852572",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "402",
+    "rollNo": "852576",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "403",
+    "rollNo": "852579",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "404",
+    "rollNo": "852595",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "405",
+    "rollNo": "852597",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "406",
+    "rollNo": "852601",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "407",
+    "rollNo": "852603",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "408",
+    "rollNo": "852611",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "409",
+    "rollNo": "852616",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "410",
+    "rollNo": "852617",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "411",
+    "rollNo": "852620",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "412",
+    "rollNo": "852622",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "413",
+    "rollNo": "852640",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "414",
+    "rollNo": "852641",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "415",
+    "rollNo": "852655",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "416",
+    "rollNo": "852664",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "417",
+    "rollNo": "852669",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "418",
+    "rollNo": "852675",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "419",
+    "rollNo": "852679",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "420",
+    "rollNo": "853400",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "421",
+    "rollNo": "860680",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "422",
+    "rollNo": "860681",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "423",
+    "rollNo": "860687",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "424",
+    "rollNo": "860694",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "425",
+    "rollNo": "860697",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "426",
+    "rollNo": "860700",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "427",
+    "rollNo": "862643",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "428",
+    "rollNo": "862646",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "429",
+    "rollNo": "862647",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "430",
+    "rollNo": "862652",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "431",
+    "rollNo": "862656",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "432",
+    "rollNo": "862657",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "433",
+    "rollNo": "862661",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "434",
+    "rollNo": "862667",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "435",
+    "rollNo": "862670",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "436",
+    "rollNo": "864544",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "437",
+    "rollNo": "864552",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "438",
+    "rollNo": "864554",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "439",
+    "rollNo": "864561",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "440",
+    "rollNo": "864565",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "441",
+    "rollNo": "864571",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "442",
+    "rollNo": "864577",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "443",
+    "rollNo": "864590",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "444",
+    "rollNo": "864595",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "445",
+    "rollNo": "868665",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "446",
+    "rollNo": "868672",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "447",
+    "rollNo": "868673",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "448",
+    "rollNo": "868674",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "449",
+    "rollNo": "868680",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "450",
+    "rollNo": "868686",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "451",
+    "rollNo": "868688",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "452",
+    "rollNo": "868689",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "453",
+    "rollNo": "868690",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "454",
+    "rollNo": "868697",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "455",
+    "rollNo": "868698",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "456",
+    "rollNo": "868705",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "457",
+    "rollNo": "868711",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "458",
+    "rollNo": "868715",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "459",
+    "rollNo": "868718",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "460",
+    "rollNo": "868719",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "461",
+    "rollNo": "868724",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "462",
+    "rollNo": "868725",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "463",
+    "rollNo": "868729",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "464",
+    "rollNo": "868731",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "465",
+    "rollNo": "868733",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "466",
+    "rollNo": "868740",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "467",
+    "rollNo": "873505",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "468",
+    "rollNo": "873508",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "469",
+    "rollNo": "873509",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "470",
+    "rollNo": "873511",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "471",
+    "rollNo": "873521",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "472",
+    "rollNo": "873525",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "473",
+    "rollNo": "873543",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "474",
+    "rollNo": "873544",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "475",
+    "rollNo": "873545",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "476",
+    "rollNo": "873551",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "477",
+    "rollNo": "873553",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "478",
+    "rollNo": "873564",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "479",
+    "rollNo": "873575",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "480",
+    "rollNo": "873577",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "481",
+    "rollNo": "873581",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "482",
+    "rollNo": "873591",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "483",
+    "rollNo": "873604",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "484",
+    "rollNo": "873645",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "485",
+    "rollNo": "876779",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "486",
+    "rollNo": "878436",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "487",
+    "rollNo": "878447",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "488",
+    "rollNo": "878453",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "489",
+    "rollNo": "878456",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "490",
+    "rollNo": "878460",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "491",
+    "rollNo": "878464",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "492",
+    "rollNo": "878481",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "493",
+    "rollNo": "878488",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "494",
+    "rollNo": "878503",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "495",
+    "rollNo": "878510",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "496",
+    "rollNo": "878515",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "497",
+    "rollNo": "878519",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "498",
+    "rollNo": "878540",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "499",
+    "rollNo": "878555",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "500",
+    "rollNo": "878559",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "501",
+    "rollNo": "878560",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "502",
+    "rollNo": "878561",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "503",
+    "rollNo": "878562",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "504",
+    "rollNo": "878569",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "505",
+    "rollNo": "878584",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "506",
+    "rollNo": "878585",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "507",
+    "rollNo": "878590",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "508",
+    "rollNo": "878592",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "509",
+    "rollNo": "878593",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "510",
+    "rollNo": "881225",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "511",
+    "rollNo": "881228",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "512",
+    "rollNo": "881230",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "513",
+    "rollNo": "881231",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "514",
+    "rollNo": "881240",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "515",
+    "rollNo": "881241",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "516",
+    "rollNo": "882675",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "517",
+    "rollNo": "882678",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "518",
+    "rollNo": "882679",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "519",
+    "rollNo": "882680",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "520",
+    "rollNo": "882681",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "521",
+    "rollNo": "882684",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "522",
+    "rollNo": "882687",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "523",
+    "rollNo": "882690",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "524",
+    "rollNo": "882694",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "525",
+    "rollNo": "882699",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "526",
+    "rollNo": "882702",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "527",
+    "rollNo": "882710",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "528",
+    "rollNo": "882738",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "529",
+    "rollNo": "882742",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "530",
+    "rollNo": "882760",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "531",
+    "rollNo": "882761",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "532",
+    "rollNo": "882771",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "533",
+    "rollNo": "882779",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "534",
+    "rollNo": "882782",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "535",
+    "rollNo": "882784",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "536",
+    "rollNo": "883087",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "537",
+    "rollNo": "883089",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "538",
+    "rollNo": "884805",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "539",
+    "rollNo": "884808",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "540",
+    "rollNo": "884809",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "541",
+    "rollNo": "884821",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "542",
+    "rollNo": "884822",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "543",
+    "rollNo": "884823",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "544",
+    "rollNo": "884841",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "545",
+    "rollNo": "884845",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "546",
+    "rollNo": "884857",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "547",
+    "rollNo": "884866",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "548",
+    "rollNo": "884874",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "549",
+    "rollNo": "884875",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "550",
+    "rollNo": "884878",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "551",
+    "rollNo": "884880",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "552",
+    "rollNo": "884881",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "553",
+    "rollNo": "884885",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "554",
+    "rollNo": "884888",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "555",
+    "rollNo": "884899",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "556",
+    "rollNo": "884900",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "557",
+    "rollNo": "884902",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "558",
+    "rollNo": "884915",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "559",
+    "rollNo": "884919",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "560",
+    "rollNo": "884922",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "561",
+    "rollNo": "884923",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "562",
+    "rollNo": "884926",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "563",
+    "rollNo": "884935",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "564",
+    "rollNo": "884936",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "565",
+    "rollNo": "884941",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "566",
+    "rollNo": "884945",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "567",
+    "rollNo": "884946",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "568",
+    "rollNo": "884949",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "569",
+    "rollNo": "884950",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "570",
+    "rollNo": "884954",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "571",
+    "rollNo": "884958",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "572",
+    "rollNo": "884959",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "573",
+    "rollNo": "884961",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "574",
+    "rollNo": "884962",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "575",
+    "rollNo": "884963",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "576",
+    "rollNo": "884964",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "577",
+    "rollNo": "884966",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "578",
+    "rollNo": "884971",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "579",
+    "rollNo": "884972",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "580",
+    "rollNo": "884973",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "581",
+    "rollNo": "884980",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "582",
+    "rollNo": "884983",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "583",
+    "rollNo": "884985",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "584",
+    "rollNo": "884987",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "585",
+    "rollNo": "884989",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "586",
+    "rollNo": "884991",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "587",
+    "rollNo": "884994",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "588",
+    "rollNo": "884999",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "589",
+    "rollNo": "885012",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "590",
+    "rollNo": "885014",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "591",
+    "rollNo": "885016",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "592",
+    "rollNo": "885018",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "593",
+    "rollNo": "885034",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "594",
+    "rollNo": "885038",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "595",
+    "rollNo": "885043",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "596",
+    "rollNo": "885047",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "597",
+    "rollNo": "885056",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "598",
+    "rollNo": "885057",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "599",
+    "rollNo": "885058",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "600",
+    "rollNo": "886439",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "601",
+    "rollNo": "886440",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "602",
+    "rollNo": "886964",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "603",
+    "rollNo": "888410",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "604",
+    "rollNo": "888415",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "605",
+    "rollNo": "888417",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "606",
+    "rollNo": "888419",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "607",
+    "rollNo": "888428",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "608",
+    "rollNo": "888431",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "609",
+    "rollNo": "888435",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "610",
+    "rollNo": "888438",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "611",
+    "rollNo": "888440",
+    "districtName": "Kishanganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "612",
+    "rollNo": "888441",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "613",
+    "rollNo": "888445",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "614",
+    "rollNo": "888451",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "615",
+    "rollNo": "888452",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "616",
+    "rollNo": "888454",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "617",
+    "rollNo": "888457",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "618",
+    "rollNo": "888458",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "619",
+    "rollNo": "888459",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "620",
+    "rollNo": "888463",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "621",
+    "rollNo": "888466",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "622",
+    "rollNo": "888473",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "623",
+    "rollNo": "888479",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "624",
+    "rollNo": "888480",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "625",
+    "rollNo": "888486",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "626",
+    "rollNo": "888489",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "627",
+    "rollNo": "888492",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "628",
+    "rollNo": "888498",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "629",
+    "rollNo": "888500",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "630",
+    "rollNo": "888505",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "631",
+    "rollNo": "888506",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "632",
+    "rollNo": "888509",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "633",
+    "rollNo": "888512",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "634",
+    "rollNo": "888513",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "635",
+    "rollNo": "888514",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "636",
+    "rollNo": "888516",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "637",
+    "rollNo": "888520",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "638",
+    "rollNo": "888521",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "639",
+    "rollNo": "888525",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "640",
+    "rollNo": "888527",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "641",
+    "rollNo": "888530",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "642",
+    "rollNo": "888532",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "643",
+    "rollNo": "888538",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "644",
+    "rollNo": "888539",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "645",
+    "rollNo": "888540",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "646",
+    "rollNo": "888546",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "647",
+    "rollNo": "888550",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "648",
+    "rollNo": "888556",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "649",
+    "rollNo": "888562",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "650",
+    "rollNo": "888564",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "651",
+    "rollNo": "888568",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "652",
+    "rollNo": "888571",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "653",
+    "rollNo": "888578",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "654",
+    "rollNo": "888583",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "655",
+    "rollNo": "888589",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "656",
+    "rollNo": "888590",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "657",
+    "rollNo": "888596",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "658",
+    "rollNo": "888600",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "659",
+    "rollNo": "888605",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "660",
+    "rollNo": "888612",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "661",
+    "rollNo": "888613",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "662",
+    "rollNo": "888616",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "663",
+    "rollNo": "888617",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "664",
+    "rollNo": "888619",
+    "districtName": "Kaimur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "665",
+    "rollNo": "893378",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "666",
+    "rollNo": "893494",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "667",
+    "rollNo": "893499",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "668",
+    "rollNo": "893509",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "669",
+    "rollNo": "893511",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "670",
+    "rollNo": "893514",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "671",
+    "rollNo": "893518",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "672",
+    "rollNo": "893528",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "673",
+    "rollNo": "893529",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "674",
+    "rollNo": "893536",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "675",
+    "rollNo": "893541",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "676",
+    "rollNo": "893549",
+    "districtName": "Muzaffarpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "677",
+    "rollNo": "893557",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "678",
+    "rollNo": "895420",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "679",
+    "rollNo": "895424",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "680",
+    "rollNo": "895431",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "681",
+    "rollNo": "895434",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "682",
+    "rollNo": "895445",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "683",
+    "rollNo": "895447",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "685",
+    "rollNo": "896964",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "686",
+    "rollNo": "896969",
+    "districtName": "Vaishali",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "687",
+    "rollNo": "896970",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "688",
+    "rollNo": "896975",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "689",
+    "rollNo": "896976",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "690",
+    "rollNo": "896983",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "691",
+    "rollNo": "896988",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "692",
+    "rollNo": "896991",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "693",
+    "rollNo": "897011",
+    "districtName": "Khagaria",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "694",
+    "rollNo": "897025",
+    "districtName": "Bhagalpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "695",
+    "rollNo": "897032",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "696",
+    "rollNo": "897039",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "697",
+    "rollNo": "897040",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "698",
+    "rollNo": "897042",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "699",
+    "rollNo": "897044",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "700",
+    "rollNo": "897047",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "701",
+    "rollNo": "900615",
+    "districtName": "Gopalganj",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "702",
+    "rollNo": "900875",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "703",
+    "rollNo": "900877",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "704",
+    "rollNo": "900883",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "705",
+    "rollNo": "900884",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "706",
+    "rollNo": "900890",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "707",
+    "rollNo": "900892",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "708",
+    "rollNo": "900899",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "709",
+    "rollNo": "900901",
+    "districtName": "Munger",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "710",
+    "rollNo": "902595",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "711",
+    "rollNo": "902598",
+    "districtName": "Jamui",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "712",
+    "rollNo": "902600",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "713",
+    "rollNo": "902602",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "714",
+    "rollNo": "902606",
+    "districtName": "Saharsa",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "715",
+    "rollNo": "902610",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "716",
+    "rollNo": "903768",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "717",
+    "rollNo": "903774",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "718",
+    "rollNo": "903781",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "719",
+    "rollNo": "903786",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "720",
+    "rollNo": "903788",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "721",
+    "rollNo": "903790",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "722",
+    "rollNo": "903791",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "723",
+    "rollNo": "903804",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "724",
+    "rollNo": "903809",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "725",
+    "rollNo": "903816",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "726",
+    "rollNo": "903818",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "727",
+    "rollNo": "906881",
+    "districtName": "Arwal",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "728",
+    "rollNo": "906882",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "729",
+    "rollNo": "906891",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "730",
+    "rollNo": "906894",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "731",
+    "rollNo": "906909",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "732",
+    "rollNo": "908945",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "733",
+    "rollNo": "908946",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "734",
+    "rollNo": "908948",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "735",
+    "rollNo": "908954",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "736",
+    "rollNo": "908956",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "737",
+    "rollNo": "908958",
+    "districtName": "Purbi Champaran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "738",
+    "rollNo": "908959",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "739",
+    "rollNo": "908967",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "740",
+    "rollNo": "908968",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "741",
+    "rollNo": "908972",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "742",
+    "rollNo": "908978",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "743",
+    "rollNo": "908983",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "744",
+    "rollNo": "908988",
+    "districtName": "Jehanabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "745",
+    "rollNo": "908992",
+    "districtName": "Sitamarhi",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "746",
+    "rollNo": "908993",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "747",
+    "rollNo": "908996",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "748",
+    "rollNo": "908997",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "749",
+    "rollNo": "909004",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "750",
+    "rollNo": "909005",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "751",
+    "rollNo": "909006",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "752",
+    "rollNo": "909012",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "753",
+    "rollNo": "909015",
+    "districtName": "Gaya",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "754",
+    "rollNo": "909020",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "755",
+    "rollNo": "909023",
+    "districtName": "Katihar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "756",
+    "rollNo": "909029",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "757",
+    "rollNo": "909032",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "758",
+    "rollNo": "909038",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "759",
+    "rollNo": "909039",
+    "districtName": "Lakhisarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "760",
+    "rollNo": "913098",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "761",
+    "rollNo": "913101",
+    "districtName": "Patna",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "762",
+    "rollNo": "913103",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "763",
+    "rollNo": "915942",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "764",
+    "rollNo": "915950",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "765",
+    "rollNo": "915954",
+    "districtName": "Banka",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "766",
+    "rollNo": "915958",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "767",
+    "rollNo": "915959",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "768",
+    "rollNo": "915964",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "769",
+    "rollNo": "915967",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "770",
+    "rollNo": "915972",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "771",
+    "rollNo": "915973",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "772",
+    "rollNo": "915975",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "773",
+    "rollNo": "915978",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "774",
+    "rollNo": "915985",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "775",
+    "rollNo": "915988",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "776",
+    "rollNo": "919273",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "777",
+    "rollNo": "920312",
+    "districtName": "Samastipur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "778",
+    "rollNo": "920317",
+    "districtName": "Supaul",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "779",
+    "rollNo": "920326",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "780",
+    "rollNo": "920330",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "781",
+    "rollNo": "922096",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "782",
+    "rollNo": "922099",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "783",
+    "rollNo": "922111",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "784",
+    "rollNo": "922113",
+    "districtName": "Rohtas",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "785",
+    "rollNo": "924330",
+    "districtName": "Madhubani",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "786",
+    "rollNo": "924336",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "787",
+    "rollNo": "924338",
+    "districtName": "Pashchim",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "788",
+    "rollNo": "924347",
+    "districtName": "Nawada",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "789",
+    "rollNo": "924349",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "790",
+    "rollNo": "924351",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "791",
+    "rollNo": "924355",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "792",
+    "rollNo": "924356",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "793",
+    "rollNo": "924368",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "794",
+    "rollNo": "924385",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "795",
+    "rollNo": "924390",
+    "districtName": "Aurangabad",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "796",
+    "rollNo": "924391",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "797",
+    "rollNo": "924393",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "798",
+    "rollNo": "924407",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "799",
+    "rollNo": "924408",
+    "districtName": "Nalanda",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "800",
+    "rollNo": "924409",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "801",
+    "rollNo": "925495",
+    "districtName": "Begusarai",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "802",
+    "rollNo": "925497",
+    "districtName": "Siwan",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "803",
+    "rollNo": "925500",
+    "districtName": "Madhepura",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "804",
+    "rollNo": "925501",
+    "districtName": "Saran",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "805",
+    "rollNo": "925502",
+    "districtName": "Darbhanga",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "806",
+    "rollNo": "925503",
+    "districtName": "Buxar",
+    "className": "9-10",
+    "subject": "Urdu"
+  },
+  {
+    "serialNo": "807",
+    "rollNo": "925504",
+    "districtName": "Bhojpur",
+    "className": "9-10",
+    "subject": "Urdu"
+  }
+]

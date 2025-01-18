@@ -1,0 +1,6939 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "522225",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "523401",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "523448",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "524837",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "526287",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "529278",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "529283",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "529640",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "530081",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "530210",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "530527",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "530927",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "531050",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "531376",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "531480",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "531601",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "531707",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "531743",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "531959",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "531993",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "532046",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "532332",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "532383",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "532397",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "532496",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "532561",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "532612",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "532790",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "532929",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "532962",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "533545",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "534297",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "534395",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "534509",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "534534",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "534594",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "534606",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "534796",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "535057",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "535201",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "535281",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "535444",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "535731",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "535770",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "535802",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "535812",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "558049",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "564014",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "564029",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "564264",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "564291",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "564296",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "564330",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "564425",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "564567",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "564592",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "564685",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "565055",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "565109",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "565212",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "565248",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "565420",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "565461",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "565613",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "565794",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "566200",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "566302",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "567523",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "567723",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "569804",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "569810",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "572417",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "572724",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "572819",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "572919",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "572978",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "573004",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "573103",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "573237",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "573275",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "573614",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "573690",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "573712",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "573728",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "573761",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "573808",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "573917",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "573939",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "574116",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "574156",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "574229",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "574296",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "574311",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "574339",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "574669",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "574819",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "574870",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "575014",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "575043",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "575670",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "575680",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "575727",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "575742",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "575806",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "575851",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "575976",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "576110",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "576196",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "576536",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "576544",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "576574",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "576625",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "576640",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "576745",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "576810",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "576986",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "577414",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "577416",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "577469",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "577697",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "577711",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "577784",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "577866",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "587777",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "588376",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "590507",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "590715",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "590836",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "590847",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "591053",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "591132",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "591135",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "591223",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "591371",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "591436",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "591461",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "591527",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "591575",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "591595",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "591625",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "591642",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "591675",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "591681",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "591724",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "591727",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "591875",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "591913",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "591958",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "592208",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "592334",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "592499",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "592654",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "592711",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "592763",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "592816",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "592911",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "592965",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "593013",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "593097",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "593179",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "593308",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "593345",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "593555",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "593628",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "601587",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "601786",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "608299",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "608365",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "608413",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "608464",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "608468",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "608576",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "608591",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "608618",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "608655",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "608805",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "608885",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "609083",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "609189",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "609281",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "609435",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "609470",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "609545",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "609760",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "609877",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "610042",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "610163",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "610299",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "610439",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "610602",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "610688",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "610786",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "610903",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "610936",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "611096",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "611181",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "611230",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "611314",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "611328",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "611352",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "611436",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "611486",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "611628",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "611809",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "611838",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "611913",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "611982",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "612011",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "612121",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "612147",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "612214",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "612215",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "612441",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "612443",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "612460",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "622619",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "624963",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "624969",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "625052",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "625061",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "625071",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "625093",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "625166",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "625173",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "625198",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "625244",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "625248",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "625559",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "625804",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "625829",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "625845",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "625873",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "626004",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "626029",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "626039",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "626144",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "626582",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "626678",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "626679",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "626872",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "626950",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "627042",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "627128",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "627274",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "627328",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "627458",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "627630",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "627865",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "627952",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "628015",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "628127",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "628286",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "628317",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "628334",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "628474",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "628599",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "628791",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "628846",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "639190",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "641999",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "642958",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "643013",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "643534",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "643613",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "643698",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "643920",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "644063",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "644298",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "644666",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "644956",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "645133",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "645195",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "645229",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "645255",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "645279",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "645334",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "645404",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "699688",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "699976",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "701602",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "702974",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "703250",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "703281",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "703297",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "703311",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "703325",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "703347",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "704497",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "708699",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "708880",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "708994",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "709034",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "709242",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "709249",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "709341",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "709728",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "709736",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "709808",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "710020",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "710203",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "710262",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "710326",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "710579",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "710617",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "710682",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "711021",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "711374",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "711431",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "711453",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "711520",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "711663",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "711664",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "711716",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "711922",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "712290",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "712435",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "712579",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "712661",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "712680",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "712849",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "712854",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "712862",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "712888",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "712895",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "712940",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "712950",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "712984",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "713040",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "713202",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "713292",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "713449",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "713486",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "713728",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "713937",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "773530",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "840194",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "851630",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "852236",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "855896",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "856046",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "856122",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "856172",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "856227",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "856300",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "856387",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "856431",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "856646",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "856671",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "856707",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "856716",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "856748",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "856750",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "857190",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "857197",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "857199",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "857282",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "857333",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "857434",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "857472",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "857475",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "857479",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "857608",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "363",
+    "rollNo": "857641",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "364",
+    "rollNo": "857863",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "365",
+    "rollNo": "857907",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "366",
+    "rollNo": "857922",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "367",
+    "rollNo": "857957",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "368",
+    "rollNo": "858088",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "369",
+    "rollNo": "858124",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "370",
+    "rollNo": "858186",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "371",
+    "rollNo": "858370",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "372",
+    "rollNo": "858379",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "373",
+    "rollNo": "858452",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "374",
+    "rollNo": "858482",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "375",
+    "rollNo": "858515",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "376",
+    "rollNo": "858655",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "377",
+    "rollNo": "858684",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "378",
+    "rollNo": "858727",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "379",
+    "rollNo": "858743",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "380",
+    "rollNo": "867815",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "381",
+    "rollNo": "868113",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "382",
+    "rollNo": "869801",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "383",
+    "rollNo": "870709",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "384",
+    "rollNo": "870912",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "385",
+    "rollNo": "871036",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "386",
+    "rollNo": "871044",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "387",
+    "rollNo": "871056",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "388",
+    "rollNo": "871087",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "389",
+    "rollNo": "871099",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "390",
+    "rollNo": "871191",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "391",
+    "rollNo": "871215",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "392",
+    "rollNo": "871287",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "393",
+    "rollNo": "871304",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "394",
+    "rollNo": "871328",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "395",
+    "rollNo": "871345",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "396",
+    "rollNo": "871364",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "397",
+    "rollNo": "871413",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "398",
+    "rollNo": "871421",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "399",
+    "rollNo": "871585",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "400",
+    "rollNo": "871658",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "401",
+    "rollNo": "871767",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "402",
+    "rollNo": "871863",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "403",
+    "rollNo": "871869",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "404",
+    "rollNo": "872019",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "405",
+    "rollNo": "872078",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "406",
+    "rollNo": "872086",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "407",
+    "rollNo": "872645",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "408",
+    "rollNo": "872868",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "409",
+    "rollNo": "874798",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "410",
+    "rollNo": "875265",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "411",
+    "rollNo": "875675",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "412",
+    "rollNo": "875707",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "413",
+    "rollNo": "875720",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "414",
+    "rollNo": "875744",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "415",
+    "rollNo": "875755",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "416",
+    "rollNo": "875782",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "417",
+    "rollNo": "875826",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "418",
+    "rollNo": "876018",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "419",
+    "rollNo": "876042",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "420",
+    "rollNo": "876078",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "421",
+    "rollNo": "876147",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "422",
+    "rollNo": "876179",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "423",
+    "rollNo": "876224",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "424",
+    "rollNo": "876236",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "425",
+    "rollNo": "876317",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "426",
+    "rollNo": "876320",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "427",
+    "rollNo": "876366",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "428",
+    "rollNo": "876381",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "429",
+    "rollNo": "876456",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "430",
+    "rollNo": "876463",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "431",
+    "rollNo": "876516",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "432",
+    "rollNo": "876570",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "433",
+    "rollNo": "876579",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "434",
+    "rollNo": "876583",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "435",
+    "rollNo": "876597",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "436",
+    "rollNo": "876606",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "437",
+    "rollNo": "876668",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "438",
+    "rollNo": "876685",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "439",
+    "rollNo": "876861",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "440",
+    "rollNo": "876872",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "441",
+    "rollNo": "876907",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "442",
+    "rollNo": "876918",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "443",
+    "rollNo": "876919",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "444",
+    "rollNo": "876934",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "445",
+    "rollNo": "876981",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "446",
+    "rollNo": "877092",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "447",
+    "rollNo": "877183",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "448",
+    "rollNo": "877226",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "449",
+    "rollNo": "877236",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "450",
+    "rollNo": "877279",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "451",
+    "rollNo": "877323",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "452",
+    "rollNo": "877349",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "453",
+    "rollNo": "877420",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "454",
+    "rollNo": "877431",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "455",
+    "rollNo": "877433",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "456",
+    "rollNo": "877466",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "457",
+    "rollNo": "877500",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "458",
+    "rollNo": "877507",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "459",
+    "rollNo": "877519",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "460",
+    "rollNo": "877522",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "461",
+    "rollNo": "877531",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "462",
+    "rollNo": "877532",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "463",
+    "rollNo": "877548",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "464",
+    "rollNo": "877566",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "465",
+    "rollNo": "882307",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "466",
+    "rollNo": "883058",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "467",
+    "rollNo": "883447",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "468",
+    "rollNo": "883460",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "469",
+    "rollNo": "883511",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "470",
+    "rollNo": "883545",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "471",
+    "rollNo": "883580",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "472",
+    "rollNo": "883618",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "473",
+    "rollNo": "883653",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "474",
+    "rollNo": "883668",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "475",
+    "rollNo": "883791",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "476",
+    "rollNo": "883798",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "477",
+    "rollNo": "883819",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "478",
+    "rollNo": "883867",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "479",
+    "rollNo": "884001",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "480",
+    "rollNo": "884010",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "481",
+    "rollNo": "884013",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "482",
+    "rollNo": "884100",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "483",
+    "rollNo": "884115",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "484",
+    "rollNo": "884140",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "485",
+    "rollNo": "884152",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "486",
+    "rollNo": "884184",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "487",
+    "rollNo": "884206",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "488",
+    "rollNo": "884292",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "489",
+    "rollNo": "887294",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "490",
+    "rollNo": "890416",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "491",
+    "rollNo": "890564",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "492",
+    "rollNo": "890618",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "493",
+    "rollNo": "890619",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "494",
+    "rollNo": "890655",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "495",
+    "rollNo": "890663",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "496",
+    "rollNo": "890664",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "497",
+    "rollNo": "890756",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "498",
+    "rollNo": "890795",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "499",
+    "rollNo": "890797",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "500",
+    "rollNo": "890868",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "501",
+    "rollNo": "890872",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "502",
+    "rollNo": "890884",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "503",
+    "rollNo": "890915",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "504",
+    "rollNo": "890945",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "505",
+    "rollNo": "891000",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "506",
+    "rollNo": "891012",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "507",
+    "rollNo": "891054",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "508",
+    "rollNo": "891057",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "509",
+    "rollNo": "891183",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "510",
+    "rollNo": "891188",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "511",
+    "rollNo": "891236",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "512",
+    "rollNo": "891242",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "513",
+    "rollNo": "891327",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "514",
+    "rollNo": "891336",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "515",
+    "rollNo": "891360",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "516",
+    "rollNo": "891415",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "517",
+    "rollNo": "891434",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "518",
+    "rollNo": "891456",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "519",
+    "rollNo": "891525",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "520",
+    "rollNo": "891674",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "521",
+    "rollNo": "891753",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "522",
+    "rollNo": "891806",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "523",
+    "rollNo": "891811",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "524",
+    "rollNo": "891824",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "525",
+    "rollNo": "891843",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "526",
+    "rollNo": "891890",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "527",
+    "rollNo": "891895",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "528",
+    "rollNo": "891919",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "529",
+    "rollNo": "891968",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "530",
+    "rollNo": "892015",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "531",
+    "rollNo": "892046",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "532",
+    "rollNo": "892166",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "533",
+    "rollNo": "892183",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "534",
+    "rollNo": "892308",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "535",
+    "rollNo": "892330",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "536",
+    "rollNo": "892456",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "537",
+    "rollNo": "892502",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "538",
+    "rollNo": "892547",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "539",
+    "rollNo": "896970",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "540",
+    "rollNo": "898259",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "541",
+    "rollNo": "898369",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "542",
+    "rollNo": "898475",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "543",
+    "rollNo": "898510",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "544",
+    "rollNo": "898523",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "545",
+    "rollNo": "898542",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "546",
+    "rollNo": "898828",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "547",
+    "rollNo": "898834",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "548",
+    "rollNo": "899049",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "549",
+    "rollNo": "899096",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "550",
+    "rollNo": "899158",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "551",
+    "rollNo": "899238",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "552",
+    "rollNo": "899332",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "553",
+    "rollNo": "899383",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "554",
+    "rollNo": "899394",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "555",
+    "rollNo": "899403",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "556",
+    "rollNo": "899485",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "557",
+    "rollNo": "899714",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "558",
+    "rollNo": "899796",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "559",
+    "rollNo": "899831",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "560",
+    "rollNo": "899939",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "561",
+    "rollNo": "899960",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "562",
+    "rollNo": "900024",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "563",
+    "rollNo": "900281",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "564",
+    "rollNo": "900331",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "565",
+    "rollNo": "905204",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "566",
+    "rollNo": "905382",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "567",
+    "rollNo": "905486",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "568",
+    "rollNo": "905497",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "569",
+    "rollNo": "905593",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "570",
+    "rollNo": "905634",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "571",
+    "rollNo": "905683",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "572",
+    "rollNo": "905836",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "573",
+    "rollNo": "905892",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "574",
+    "rollNo": "906120",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "575",
+    "rollNo": "906158",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "576",
+    "rollNo": "906360",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "577",
+    "rollNo": "925633",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "578",
+    "rollNo": "925661",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "579",
+    "rollNo": "927395",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "580",
+    "rollNo": "927403",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "581",
+    "rollNo": "927413",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "582",
+    "rollNo": "927455",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "583",
+    "rollNo": "927834",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "584",
+    "rollNo": "927867",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "585",
+    "rollNo": "928019",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "586",
+    "rollNo": "928140",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "587",
+    "rollNo": "928202",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "588",
+    "rollNo": "928357",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "589",
+    "rollNo": "928550",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "590",
+    "rollNo": "928774",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "591",
+    "rollNo": "928820",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "592",
+    "rollNo": "928837",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "593",
+    "rollNo": "928873",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "594",
+    "rollNo": "928972",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "595",
+    "rollNo": "928983",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "596",
+    "rollNo": "929075",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "597",
+    "rollNo": "929094",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "598",
+    "rollNo": "929189",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "599",
+    "rollNo": "929200",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "600",
+    "rollNo": "929264",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "601",
+    "rollNo": "929293",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "602",
+    "rollNo": "929311",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "603",
+    "rollNo": "929317",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "604",
+    "rollNo": "929344",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "605",
+    "rollNo": "929354",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "606",
+    "rollNo": "929418",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "607",
+    "rollNo": "929528",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "608",
+    "rollNo": "929694",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "609",
+    "rollNo": "929780",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "610",
+    "rollNo": "929791",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "611",
+    "rollNo": "929868",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "612",
+    "rollNo": "930722",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "613",
+    "rollNo": "930738",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "614",
+    "rollNo": "930778",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "615",
+    "rollNo": "930782",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "616",
+    "rollNo": "934980",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "617",
+    "rollNo": "934981",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "618",
+    "rollNo": "934984",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "619",
+    "rollNo": "934985",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "620",
+    "rollNo": "934986",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "621",
+    "rollNo": "934988",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "622",
+    "rollNo": "934989",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "623",
+    "rollNo": "934990",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "624",
+    "rollNo": "934993",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "625",
+    "rollNo": "935002",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "626",
+    "rollNo": "935005",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "627",
+    "rollNo": "935008",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "628",
+    "rollNo": "935020",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "629",
+    "rollNo": "935026",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "630",
+    "rollNo": "935028",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "631",
+    "rollNo": "935038",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "632",
+    "rollNo": "935045",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "633",
+    "rollNo": "935053",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "634",
+    "rollNo": "935054",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "635",
+    "rollNo": "935056",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "636",
+    "rollNo": "935060",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "637",
+    "rollNo": "935070",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "638",
+    "rollNo": "935071",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "639",
+    "rollNo": "935075",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "640",
+    "rollNo": "935077",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "641",
+    "rollNo": "935078",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "642",
+    "rollNo": "935079",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "643",
+    "rollNo": "935082",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "644",
+    "rollNo": "935088",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "645",
+    "rollNo": "935108",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "646",
+    "rollNo": "935114",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "647",
+    "rollNo": "935115",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "648",
+    "rollNo": "935122",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "649",
+    "rollNo": "935125",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "650",
+    "rollNo": "935127",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "651",
+    "rollNo": "935135",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "652",
+    "rollNo": "935136",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "653",
+    "rollNo": "935140",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "654",
+    "rollNo": "935144",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "655",
+    "rollNo": "935148",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "656",
+    "rollNo": "935153",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "657",
+    "rollNo": "935158",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "658",
+    "rollNo": "935162",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "659",
+    "rollNo": "935163",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "660",
+    "rollNo": "938716",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "661",
+    "rollNo": "938724",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "662",
+    "rollNo": "938726",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "663",
+    "rollNo": "938728",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "664",
+    "rollNo": "938738",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "665",
+    "rollNo": "938742",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "666",
+    "rollNo": "938750",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "667",
+    "rollNo": "938756",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "668",
+    "rollNo": "938760",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "669",
+    "rollNo": "938769",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "670",
+    "rollNo": "938772",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "671",
+    "rollNo": "938774",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "672",
+    "rollNo": "938781",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "673",
+    "rollNo": "938784",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "674",
+    "rollNo": "938787",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "675",
+    "rollNo": "938792",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "676",
+    "rollNo": "938800",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "677",
+    "rollNo": "938801",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "678",
+    "rollNo": "938802",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "679",
+    "rollNo": "938819",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "680",
+    "rollNo": "938824",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "681",
+    "rollNo": "938825",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "682",
+    "rollNo": "938826",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "683",
+    "rollNo": "938829",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "684",
+    "rollNo": "938830",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "685",
+    "rollNo": "938836",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "686",
+    "rollNo": "938845",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "687",
+    "rollNo": "938853",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "688",
+    "rollNo": "938868",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "689",
+    "rollNo": "938878",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "690",
+    "rollNo": "938879",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "691",
+    "rollNo": "938886",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "692",
+    "rollNo": "938888",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "693",
+    "rollNo": "938891",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "694",
+    "rollNo": "942499",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "695",
+    "rollNo": "942510",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "696",
+    "rollNo": "942511",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "697",
+    "rollNo": "942521",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "698",
+    "rollNo": "942528",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "699",
+    "rollNo": "942531",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "700",
+    "rollNo": "942533",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "701",
+    "rollNo": "942549",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "702",
+    "rollNo": "942551",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "703",
+    "rollNo": "942556",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "704",
+    "rollNo": "942560",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "705",
+    "rollNo": "942579",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "706",
+    "rollNo": "942584",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "707",
+    "rollNo": "942585",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "708",
+    "rollNo": "942596",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "709",
+    "rollNo": "942600",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "710",
+    "rollNo": "942601",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "711",
+    "rollNo": "942608",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "712",
+    "rollNo": "942613",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "713",
+    "rollNo": "942622",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "714",
+    "rollNo": "942627",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "715",
+    "rollNo": "942630",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "716",
+    "rollNo": "942631",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "717",
+    "rollNo": "942638",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "718",
+    "rollNo": "942641",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "719",
+    "rollNo": "942643",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "720",
+    "rollNo": "942646",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "721",
+    "rollNo": "942648",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "722",
+    "rollNo": "942651",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "723",
+    "rollNo": "942655",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "724",
+    "rollNo": "942657",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "725",
+    "rollNo": "942670",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "726",
+    "rollNo": "942674",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "727",
+    "rollNo": "942676",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "728",
+    "rollNo": "942689",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "729",
+    "rollNo": "942693",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "730",
+    "rollNo": "942694",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "731",
+    "rollNo": "942696",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "732",
+    "rollNo": "942698",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "733",
+    "rollNo": "942700",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "734",
+    "rollNo": "942701",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "735",
+    "rollNo": "942703",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "736",
+    "rollNo": "942707",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "737",
+    "rollNo": "942708",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "738",
+    "rollNo": "942718",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "739",
+    "rollNo": "942722",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "740",
+    "rollNo": "942724",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "741",
+    "rollNo": "942729",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "742",
+    "rollNo": "942730",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "743",
+    "rollNo": "942737",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "744",
+    "rollNo": "942738",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "745",
+    "rollNo": "942747",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "746",
+    "rollNo": "942748",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "747",
+    "rollNo": "942750",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "748",
+    "rollNo": "942755",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "749",
+    "rollNo": "942762",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "750",
+    "rollNo": "942763",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "751",
+    "rollNo": "942764",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "752",
+    "rollNo": "942773",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "753",
+    "rollNo": "946324",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "754",
+    "rollNo": "946326",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "755",
+    "rollNo": "946327",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "756",
+    "rollNo": "946331",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "757",
+    "rollNo": "946342",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "758",
+    "rollNo": "946347",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "759",
+    "rollNo": "946351",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "760",
+    "rollNo": "946353",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "761",
+    "rollNo": "946356",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "762",
+    "rollNo": "946360",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "763",
+    "rollNo": "946361",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "764",
+    "rollNo": "946362",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "765",
+    "rollNo": "946366",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "766",
+    "rollNo": "946367",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "767",
+    "rollNo": "946371",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "768",
+    "rollNo": "946373",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "769",
+    "rollNo": "946374",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "770",
+    "rollNo": "946375",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "771",
+    "rollNo": "946379",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "772",
+    "rollNo": "946380",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "773",
+    "rollNo": "946385",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "774",
+    "rollNo": "946386",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "775",
+    "rollNo": "946391",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "776",
+    "rollNo": "946394",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "777",
+    "rollNo": "946402",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "778",
+    "rollNo": "946403",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "779",
+    "rollNo": "946405",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "780",
+    "rollNo": "946406",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "781",
+    "rollNo": "946410",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "782",
+    "rollNo": "946414",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "783",
+    "rollNo": "946421",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "784",
+    "rollNo": "946426",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "785",
+    "rollNo": "946428",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "786",
+    "rollNo": "946441",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "787",
+    "rollNo": "946442",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "788",
+    "rollNo": "946443",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "789",
+    "rollNo": "946444",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "790",
+    "rollNo": "946446",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "791",
+    "rollNo": "946447",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "792",
+    "rollNo": "946452",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "793",
+    "rollNo": "946463",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "794",
+    "rollNo": "946465",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "795",
+    "rollNo": "946473",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "796",
+    "rollNo": "946475",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "797",
+    "rollNo": "946477",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "798",
+    "rollNo": "946479",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "799",
+    "rollNo": "946483",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "800",
+    "rollNo": "946486",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "801",
+    "rollNo": "946487",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "802",
+    "rollNo": "946489",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "803",
+    "rollNo": "946496",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "804",
+    "rollNo": "946504",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "805",
+    "rollNo": "949347",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "806",
+    "rollNo": "949352",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "807",
+    "rollNo": "949364",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "808",
+    "rollNo": "949365",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "809",
+    "rollNo": "949379",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "810",
+    "rollNo": "949380",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "811",
+    "rollNo": "949381",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "812",
+    "rollNo": "949384",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "813",
+    "rollNo": "949385",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "814",
+    "rollNo": "949386",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "815",
+    "rollNo": "949388",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "816",
+    "rollNo": "949389",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "817",
+    "rollNo": "949398",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "818",
+    "rollNo": "949410",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "819",
+    "rollNo": "949415",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "820",
+    "rollNo": "949418",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "821",
+    "rollNo": "949425",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "822",
+    "rollNo": "949426",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "823",
+    "rollNo": "949428",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "824",
+    "rollNo": "949433",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "825",
+    "rollNo": "949435",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "826",
+    "rollNo": "949437",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "827",
+    "rollNo": "949448",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "828",
+    "rollNo": "949449",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "829",
+    "rollNo": "949460",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "830",
+    "rollNo": "949462",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "831",
+    "rollNo": "949463",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "832",
+    "rollNo": "949469",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "833",
+    "rollNo": "949470",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "834",
+    "rollNo": "949475",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "835",
+    "rollNo": "949483",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "836",
+    "rollNo": "949490",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "837",
+    "rollNo": "949491",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "838",
+    "rollNo": "949493",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "839",
+    "rollNo": "949494",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "840",
+    "rollNo": "949495",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "841",
+    "rollNo": "949496",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "842",
+    "rollNo": "949500",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "843",
+    "rollNo": "949504",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "844",
+    "rollNo": "949507",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "845",
+    "rollNo": "949509",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "846",
+    "rollNo": "949510",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "847",
+    "rollNo": "949516",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "848",
+    "rollNo": "949519",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "849",
+    "rollNo": "949522",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "850",
+    "rollNo": "949524",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "851",
+    "rollNo": "949530",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "852",
+    "rollNo": "949539",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "853",
+    "rollNo": "949542",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "854",
+    "rollNo": "949544",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "855",
+    "rollNo": "949554",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "856",
+    "rollNo": "949556",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "857",
+    "rollNo": "949557",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "858",
+    "rollNo": "949558",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "859",
+    "rollNo": "949561",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "860",
+    "rollNo": "949562",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "861",
+    "rollNo": "949574",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "862",
+    "rollNo": "949577",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "863",
+    "rollNo": "949583",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "864",
+    "rollNo": "949589",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "865",
+    "rollNo": "949591",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "866",
+    "rollNo": "949597",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "867",
+    "rollNo": "949602",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "868",
+    "rollNo": "949607",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "869",
+    "rollNo": "949609",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "870",
+    "rollNo": "952872",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "871",
+    "rollNo": "952873",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "872",
+    "rollNo": "952881",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "873",
+    "rollNo": "952882",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "874",
+    "rollNo": "952892",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "875",
+    "rollNo": "952895",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "876",
+    "rollNo": "952902",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "877",
+    "rollNo": "952913",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "878",
+    "rollNo": "952914",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "879",
+    "rollNo": "952921",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "880",
+    "rollNo": "952933",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "881",
+    "rollNo": "952935",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "882",
+    "rollNo": "952937",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "883",
+    "rollNo": "952940",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "884",
+    "rollNo": "952959",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "885",
+    "rollNo": "952964",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "886",
+    "rollNo": "952965",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "887",
+    "rollNo": "952966",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "888",
+    "rollNo": "952967",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "889",
+    "rollNo": "952968",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "890",
+    "rollNo": "952969",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "891",
+    "rollNo": "952977",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "892",
+    "rollNo": "952978",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "893",
+    "rollNo": "952979",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "894",
+    "rollNo": "952988",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "895",
+    "rollNo": "952989",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "896",
+    "rollNo": "952996",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "897",
+    "rollNo": "952999",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "898",
+    "rollNo": "953000",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "899",
+    "rollNo": "953003",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "900",
+    "rollNo": "953005",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "901",
+    "rollNo": "953025",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "902",
+    "rollNo": "953031",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "903",
+    "rollNo": "953035",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "904",
+    "rollNo": "953039",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "905",
+    "rollNo": "953042",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "906",
+    "rollNo": "953047",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "907",
+    "rollNo": "953053",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "908",
+    "rollNo": "953055",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "909",
+    "rollNo": "953056",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "910",
+    "rollNo": "953071",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "911",
+    "rollNo": "953077",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "912",
+    "rollNo": "953078",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "913",
+    "rollNo": "953084",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "914",
+    "rollNo": "956281",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "915",
+    "rollNo": "956286",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "916",
+    "rollNo": "956290",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "917",
+    "rollNo": "956295",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "918",
+    "rollNo": "956300",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "919",
+    "rollNo": "956303",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "920",
+    "rollNo": "956308",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "921",
+    "rollNo": "956322",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "922",
+    "rollNo": "956329",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "923",
+    "rollNo": "956331",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "924",
+    "rollNo": "956333",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "925",
+    "rollNo": "956343",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "926",
+    "rollNo": "956345",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "927",
+    "rollNo": "956348",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "928",
+    "rollNo": "956353",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "929",
+    "rollNo": "956381",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "930",
+    "rollNo": "956385",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "931",
+    "rollNo": "956392",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "932",
+    "rollNo": "956394",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "933",
+    "rollNo": "956399",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "934",
+    "rollNo": "956403",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "935",
+    "rollNo": "956405",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "936",
+    "rollNo": "956408",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "937",
+    "rollNo": "956409",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "938",
+    "rollNo": "956413",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "939",
+    "rollNo": "956416",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "940",
+    "rollNo": "956417",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "941",
+    "rollNo": "956419",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "942",
+    "rollNo": "956420",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "943",
+    "rollNo": "956421",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "944",
+    "rollNo": "956427",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "945",
+    "rollNo": "956445",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "946",
+    "rollNo": "956450",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "947",
+    "rollNo": "960969",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "948",
+    "rollNo": "960972",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "949",
+    "rollNo": "960978",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "950",
+    "rollNo": "960979",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "951",
+    "rollNo": "960986",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "952",
+    "rollNo": "960987",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "953",
+    "rollNo": "960995",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "954",
+    "rollNo": "960996",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "955",
+    "rollNo": "960998",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "956",
+    "rollNo": "961001",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "957",
+    "rollNo": "961002",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "958",
+    "rollNo": "961004",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "959",
+    "rollNo": "961006",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "960",
+    "rollNo": "961014",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "961",
+    "rollNo": "961020",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "962",
+    "rollNo": "961022",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "963",
+    "rollNo": "961024",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "964",
+    "rollNo": "961032",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "965",
+    "rollNo": "961034",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "966",
+    "rollNo": "961035",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "967",
+    "rollNo": "961038",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "968",
+    "rollNo": "961045",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "969",
+    "rollNo": "961047",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "970",
+    "rollNo": "961048",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "971",
+    "rollNo": "961052",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "972",
+    "rollNo": "961054",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "973",
+    "rollNo": "961059",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "974",
+    "rollNo": "961061",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "975",
+    "rollNo": "961072",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "976",
+    "rollNo": "961302",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "977",
+    "rollNo": "961306",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "978",
+    "rollNo": "961311",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "979",
+    "rollNo": "961312",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "980",
+    "rollNo": "961317",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "981",
+    "rollNo": "961323",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "982",
+    "rollNo": "961325",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "983",
+    "rollNo": "962602",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "984",
+    "rollNo": "962607",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "985",
+    "rollNo": "962608",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "986",
+    "rollNo": "962609",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "987",
+    "rollNo": "962610",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "988",
+    "rollNo": "962616",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "989",
+    "rollNo": "962622",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "990",
+    "rollNo": "962623",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Political Science"
+  },
+  {
+    "serialNo": "991",
+    "rollNo": "962625",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Political Science"
+  }
+]

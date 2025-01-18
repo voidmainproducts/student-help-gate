@@ -1,0 +1,2578 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "529791",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "529885",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "530286",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "530669",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "531721",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "531974",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "532039",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "532421",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "532471",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "532782",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "532888",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "532939",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "532951",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "533085",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "533137",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "533150",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "533626",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "533757",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "534226",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "534306",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "534351",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "534586",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "534803",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "535838",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "560640",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "563344",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "563719",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "563846",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "563871",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "564113",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "564478",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "564978",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "565151",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "565981",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "566460",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "567232",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "567729",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "572362",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "572661",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "572662",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "572796",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "572834",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "573019",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "573307",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "574306",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "574739",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "574899",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "574925",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "575660",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "575815",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "577150",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "577204",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "577411",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "577446",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "577479",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "577666",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "577732",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "589777",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "590742",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "590744",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "591499",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "591572",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "592385",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "592406",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "592461",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "592673",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "592789",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "592863",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "593023",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "593042",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "593509",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "593612",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "601883",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "602635",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "603129",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "603702",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "603714",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "605451",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "608178",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "608544",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "609276",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "609473",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "609607",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "609681",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "610390",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "610925",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "610999",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "611346",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "611443",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "612026",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "612109",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "621883",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "625947",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "626519",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "626573",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "627170",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "627218",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "627425",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "628302",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "628364",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "628917",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "642949",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "643540",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "643578",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "643645",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "643742",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "643778",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "644096",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "644097",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "644308",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "644322",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "644680",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "644844",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "644967",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "645276",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "645572",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "645634",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "700311",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "700440",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "703225",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "703266",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "708451",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "708923",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "709451",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "709715",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "709745",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "709920",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "710175",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "710295",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "710400",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "710708",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "710934",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "711167",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "711302",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "711688",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "711994",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "712124",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "712165",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "712205",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "712271",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "712554",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "712717",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "712734",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "712781",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "712916",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "712952",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "712961",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "713028",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "713329",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "798255",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "852416",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "852608",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "856085",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "856090",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "856451",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "856626",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "856832",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "858034",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "858221",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "858729",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "870194",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "870859",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "871022",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "871517",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "875964",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "876070",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "876528",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "877345",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "877549",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "877554",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "877698",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "882675",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "883543",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "884250",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "890471",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "890670",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "890772",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "891088",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "891447",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "891477",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "891646",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "891661",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "891883",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "891921",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "892073",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "892271",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "892482",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "896860",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "897248",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "898319",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "898522",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "899740",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "900012",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "903367",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "905235",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "905351",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "905479",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "905631",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "905924",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "906305",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "923739",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "923825",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "923988",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "924614",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "928526",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "929005",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "929059",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "929119",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "930697",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "930749",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "930768",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "935553",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "935556",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "935565",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "935570",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "935571",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "935579",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "935582",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "935583",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "935584",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "935589",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "935597",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "935598",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "935600",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "935605",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "935606",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "935610",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "935614",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "935623",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "935627",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "935628",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "935638",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "935639",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "935641",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "935643",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "935644",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "935645",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "935646",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "935651",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "935652",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "935657",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "935658",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "935660",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "935661",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "935662",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "935665",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "935667",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "935676",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "935684",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "935686",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "935689",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "935694",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "939169",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "939170",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "939182",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "939189",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "939196",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "939198",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "939205",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "939218",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "939224",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "939226",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "939235",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "943256",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "943258",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "943259",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "943265",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "943282",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "943283",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "943290",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "943327",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "943341",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "943352",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "943368",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "943369",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "943375",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "943377",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "943378",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "943383",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "943388",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "946800",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "946806",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "946807",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "946808",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "946810",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "946816",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "946817",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "946824",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "946843",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "946844",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "946845",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "946852",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "946864",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "946870",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "946871",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "946873",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "946874",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "946881",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "950148",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "950156",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "950160",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "950163",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "950171",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "950173",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "950176",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "950178",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "950183",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "950193",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "950199",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "950215",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "950230",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "950240",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "950244",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "950252",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "950257",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "953397",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "953399",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "953401",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "953402",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "953404",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "953412",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "953430",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "953433",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "953451",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "953462",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "953463",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "953497",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "956819",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "956821",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "956825",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "956828",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "956833",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "956836",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "956840",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "956848",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "956852",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "956857",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "956866",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "956870",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "956886",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "956892",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "956895",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "956913",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "961622",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "961624",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "961625",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "961626",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "961630",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "961631",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "961640",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "961642",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "961643",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "961645",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "961648",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "961663",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "961664",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "961666",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "961668",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "961670",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "961671",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "961679",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "961686",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "363",
+    "rollNo": "961692",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "364",
+    "rollNo": "961696",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "365",
+    "rollNo": "961703",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "366",
+    "rollNo": "961712",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "367",
+    "rollNo": "962722",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sociology"
+  },
+  {
+    "serialNo": "368",
+    "rollNo": "962723",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sociology"
+  }
+]

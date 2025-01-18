@@ -1,0 +1,51 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "568612",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "925621",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "938031",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "941207",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "941208",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "945626",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Persian"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "948500",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Persian"
+  }
+]

@@ -1,0 +1,905 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "522681",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "530092",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "530267",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "530871",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "532946",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "533309",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "559439",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "563557",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "563743",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "563784",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "563865",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "563877",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "563899",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "564511",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "565629",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "565782",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "565937",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "572485",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "572542",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "572745",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "573290",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "573315",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "574118",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "574289",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "574693",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "574865",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "575586",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "575951",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "576354",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "576379",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "576500",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "576565",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "576831",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "577119",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "577763",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "577792",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "590911",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "590914",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "591710",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "592732",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "593505",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "603024",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "608214",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "608300",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "608366",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "610105",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "610170",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "611282",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "611687",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "611825",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "625810",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "625899",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "626604",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "627828",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "627929",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "639032",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "643825",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "703197",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "703258",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "709049",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "710499",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "711067",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "713319",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "884334",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "930679",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "937461",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "937471",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "937477",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "937479",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "937485",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "937487",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "937489",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "937494",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "937496",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "937500",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "937510",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "937511",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "940115",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "940118",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "940124",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "940134",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "940141",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "944933",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "944937",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "944938",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "944969",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "944977",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "944979",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "944980",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "944981",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "944985",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "944994",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "945011",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "945014",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "945020",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "945024",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "945025",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "945044",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "945046",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "947763",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "947770",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "951222",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "951223",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "951228",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "951229",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "951233",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "951245",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "951253",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "951255",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "951262",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "954835",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "954845",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "954863",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "954868",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "954875",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "954881",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "954891",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "954901",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "954904",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "954905",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "954922",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "954926",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "958054",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "962862",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "962985",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "962986",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "963000",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "963008",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "963020",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Entrepreneurship"
+  }
+]

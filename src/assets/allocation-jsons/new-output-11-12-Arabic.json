@@ -1,0 +1,128 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "873821",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "882850",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "882851",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "933415",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "933416",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "933418",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "938030",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "941205",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "945619",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "945620",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "945621",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "945622",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "945623",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "945624",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "945625",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "948497",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "948499",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Arabic"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "952055",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Arabic"
+  }
+]

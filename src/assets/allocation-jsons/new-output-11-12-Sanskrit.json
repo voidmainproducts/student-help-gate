@@ -1,0 +1,2543 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "523227",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "559927",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "559929",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "560026",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "560057",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "560078",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "568644",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "568655",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "568668",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "568682",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "568693",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "568697",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "568715",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "568716",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "568725",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "568732",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "568734",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "568745",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "568763",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "568775",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "568776",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "588632",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "588636",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "588652",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "588659",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "588669",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "588670",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "588674",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "604169",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "604184",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "604230",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "604240",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "604247",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "604275",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "604276",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "604292",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "604325",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "604337",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "604355",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "604367",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "604368",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "604400",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "604405",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "604425",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "604430",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "604439",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "604453",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "604454",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "622356",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "622367",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "622377",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "622385",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "622448",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "622461",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "702081",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "702172",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "702175",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "702183",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "702194",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "702218",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "702219",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "702249",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "702274",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "702359",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "851826",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "852702",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "852722",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "852751",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "852760",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "852764",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "852778",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "868790",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "868795",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "868813",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "868823",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "868828",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "868859",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "872581",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "873675",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "873684",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "873685",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "873699",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "873707",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "873708",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "873709",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "873710",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "873711",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "873712",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "873714",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "873716",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "873719",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "873735",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "873745",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "873746",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "873751",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "873755",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "873770",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "873775",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "873787",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "873795",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "873804",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "873807",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "873811",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "882805",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "882807",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "882816",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "882818",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "882820",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "882827",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "882828",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "882845",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "882846",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "888015",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "888659",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "888660",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "888665",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "888669",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "888670",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "888686",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "888689",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "888698",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "888707",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "888713",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "888721",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "888724",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "888725",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "888727",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "888732",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "888755",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "888764",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "888765",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "888769",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "888770",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "888772",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "888774",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "888779",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "888780",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "888781",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "888785",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "888794",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "888796",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "888800",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "888811",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "888815",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "888822",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "888830",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "888831",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "888846",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "888865",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "897054",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "897064",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "897069",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "897072",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "897078",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "897082",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "897087",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "897092",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "897095",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "897105",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "897106",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "897107",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "903839",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "903842",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "903844",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "903847",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "903858",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "903863",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "905270",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "924061",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "924423",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "924432",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "924437",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "924451",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "924454",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "924481",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "924507",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "924516",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "924530",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "924536",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "925510",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "933144",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "933151",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "933351",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "933352",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "933357",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "933362",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "933365",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "933366",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "933367",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "933373",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "933375",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "933377",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "933383",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "933384",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "933391",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "933392",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "933406",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "933408",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "933411",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "937948",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "937962",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "937967",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "937969",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "937971",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "937972",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "937975",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "937993",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "937999",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "938005",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "938010",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "938017",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "938027",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "941072",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "941080",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "941083",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "941084",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "941085",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "941087",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "941089",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "941090",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "941091",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "941096",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "941102",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "941105",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "941106",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "941113",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "941114",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "941115",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "941117",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "941119",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "941121",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "941126",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "941128",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "941131",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "941134",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "941135",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "941138",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "941142",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "941143",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "941144",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "941151",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "941162",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "941163",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "941166",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "941170",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "941171",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "941174",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "941177",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "941180",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "941186",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "941187",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "941188",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "945571",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "945573",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "945575",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "945577",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "945581",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "945588",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "945593",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "945594",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "945597",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "945599",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "945600",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "945601",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "945605",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "945608",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "945611",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "948410",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "948414",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "948416",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "948417",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "948423",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "948425",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "948427",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "948429",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "948436",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "948437",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "948438",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "948440",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "948441",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "948445",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "948449",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "948451",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "948452",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "948453",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "948456",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "948457",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "948458",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "948463",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "948471",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "948473",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "948474",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "948477",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "948483",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "951958",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "951960",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "951962",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "951967",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "951969",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "951971",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "951977",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "951988",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "951990",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "951995",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "952007",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "952011",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "952023",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "952027",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "952028",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "952029",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "952033",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "952034",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "952035",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "952040",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "952042",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "952045",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "955431",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "955432",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "955433",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "955434",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "955438",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "955439",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "955442",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "955444",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "955448",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "955454",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "955455",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "955456",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "955457",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "955458",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "955461",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "955462",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "955463",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "955467",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "958168",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "958169",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "958170",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "958171",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "958173",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "958174",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "958175",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "958176",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "959452",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "959453",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "959454",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "959458",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "959460",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "959467",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "959468",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "959474",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "959483",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "959490",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "959491",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "959493",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "959495",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "959499",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "959502",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "959503",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "959504",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "959506",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "959509",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "959512",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  },
+  {
+    "serialNo": "363",
+    "rollNo": "959514",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Sanskrit"
+  }
+]

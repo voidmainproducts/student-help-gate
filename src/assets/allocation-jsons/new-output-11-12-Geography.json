@@ -1,0 +1,2809 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "529490",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "530238",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "530718",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "530792",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "530826",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "531500",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "532061",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "532636",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "532731",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "533616",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "533717",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "533773",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "533840",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "534091",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "534432",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "534521",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "534949",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "535388",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "558075",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "558194",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "563270",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "563424",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "563517",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "563664",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "563738",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "564002",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "564175",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "565545",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "565683",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "565726",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "565859",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "566588",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "566779",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "568265",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "571688",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "572422",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "572824",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "572922",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "573043",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "573465",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "573495",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "573621",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "574079",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "574428",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "574502",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "574708",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "574734",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "574910",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "575082",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "575196",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "575595",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "576029",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "576087",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "576173",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "576801",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "577002",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "577289",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "577350",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "577351",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "577388",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "577738",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "587365",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "590503",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "590652",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "590818",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "591108",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "591119",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "591190",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "591349",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "591495",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "591534",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "591661",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "592516",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "592758",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "602061",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "608186",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "608304",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "608386",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "608434",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "608551",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "608659",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "609088",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "609143",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "609188",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "609388",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "609391",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "609409",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "609711",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "609739",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "609771",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "609866",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "610004",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "610151",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "610319",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "610392",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "610466",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "610954",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "611204",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "611323",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "612394",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "612429",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "612481",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "625489",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "627443",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "627830",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "628253",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "639580",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "643066",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "643108",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "643429",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "643481",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "643832",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "643888",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "643956",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "643989",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "644201",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "644259",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "644263",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "644390",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "644686",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "644703",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "645286",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "645293",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "645433",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "645443",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "645460",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "645536",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "645537",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "645712",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "645739",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "645782",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "645801",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "645822",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "700406",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "700684",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "701364",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "703201",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "703216",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "703229",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "703330",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "707411",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "708430",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "708553",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "708753",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "709107",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "709119",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "709277",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "709355",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "709395",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "709509",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "709591",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "709689",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "709702",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "709733",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "709899",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "710002",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "710006",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "710035",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "710255",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "710329",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "710394",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "710403",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "710484",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "710629",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "710797",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "710869",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "711301",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "711477",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "711702",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "711768",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "711818",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "711858",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "712039",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "712098",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "712215",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "712247",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "712272",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "712342",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "712361",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "712692",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "712695",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "712860",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "712893",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "712902",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "712944",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "713217",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "713340",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "713411",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "713447",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "713648",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "713669",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "713776",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "851594",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "855915",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "857039",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "857062",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "857720",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "869986",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "871249",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "871311",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "871618",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "872052",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "872756",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "875809",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "875842",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "875901",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "875962",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "876023",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "876448",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "876846",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "876982",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "876995",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "877046",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "877182",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "877185",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "877220",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "877252",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "883564",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "890587",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "891319",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "891337",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "891406",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "891781",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "891820",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "891907",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "891945",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "892367",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "898375",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "898633",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "898663",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "898887",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "899212",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "900303",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "905208",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "905297",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "905376",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "905626",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "905628",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "905748",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "905885",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "905987",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "906000",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "906188",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "906390",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "927047",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "927463",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "927528",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "927709",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "928046",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "928535",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "928622",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "928691",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "929042",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "929281",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "929323",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "929333",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "929735",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "930746",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "935167",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "935178",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "935215",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "935220",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "935239",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "935249",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "935253",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "935254",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "935259",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "935266",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "935283",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "935284",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "935310",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "935314",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "935316",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "938898",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "938926",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "938939",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "938947",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "938951",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "938960",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "938991",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "938999",
+    "districtName": "Darbhanga",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "939015",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "942835",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "942858",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "942876",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "942878",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "942905",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "942916",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "942939",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "942941",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "942953",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "942961",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "942968",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "942976",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "942983",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "943013",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "943026",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "943029",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "943046",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "946506",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "946511",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "946530",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "946533",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "946549",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "946552",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "946554",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "946558",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "946563",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "946591",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "946592",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "946605",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "946615",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "946632",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "949629",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "949639",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "949653",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "949684",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "949698",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "949700",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "949705",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "949727",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "949740",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "949742",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "949753",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "949756",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "949769",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "949779",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "949783",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "949792",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "949807",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "949811",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "949824",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "949840",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "949849",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "949862",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "949898",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "949899",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "953103",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "953109",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "953115",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "953121",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "953134",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "953140",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "953148",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "953157",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "953176",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "953180",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "953189",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "953190",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "953210",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "953211",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "956462",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "956469",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "956470",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "956504",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "956508",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "363",
+    "rollNo": "956509",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "364",
+    "rollNo": "956512",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "365",
+    "rollNo": "956513",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "366",
+    "rollNo": "956516",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "367",
+    "rollNo": "956518",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "368",
+    "rollNo": "956522",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "369",
+    "rollNo": "956523",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "370",
+    "rollNo": "956524",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "371",
+    "rollNo": "956538",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "372",
+    "rollNo": "956550",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "373",
+    "rollNo": "956564",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "374",
+    "rollNo": "956574",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "375",
+    "rollNo": "956601",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "376",
+    "rollNo": "956603",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "377",
+    "rollNo": "956617",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "378",
+    "rollNo": "956619",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "379",
+    "rollNo": "956632",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "380",
+    "rollNo": "956642",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "381",
+    "rollNo": "956644",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "382",
+    "rollNo": "956645",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "383",
+    "rollNo": "956646",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "384",
+    "rollNo": "956650",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "385",
+    "rollNo": "956657",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "386",
+    "rollNo": "961329",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "387",
+    "rollNo": "961334",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "388",
+    "rollNo": "961345",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "389",
+    "rollNo": "961364",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "390",
+    "rollNo": "961368",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "391",
+    "rollNo": "961381",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "392",
+    "rollNo": "961389",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "393",
+    "rollNo": "961390",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "394",
+    "rollNo": "961394",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "395",
+    "rollNo": "961395",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "396",
+    "rollNo": "961437",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "397",
+    "rollNo": "961448",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "398",
+    "rollNo": "961453",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "399",
+    "rollNo": "961471",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "400",
+    "rollNo": "961475",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "401",
+    "rollNo": "961477",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "402",
+    "rollNo": "961491",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "403",
+    "rollNo": "961501",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "404",
+    "rollNo": "961509",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "405",
+    "rollNo": "962629",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "406",
+    "rollNo": "962634",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Geography"
+  },
+  {
+    "serialNo": "407",
+    "rollNo": "962682",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Geography"
+  }
+]

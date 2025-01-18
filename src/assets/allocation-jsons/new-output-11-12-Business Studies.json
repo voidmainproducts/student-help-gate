@@ -1,0 +1,2473 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "520002",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "520519",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "529300",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "529695",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "530153",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "530216",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "531008",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "531015",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "531152",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "532361",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "532938",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "533362",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "533623",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "533681",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "534258",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "534479",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "534618",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "534842",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "534860",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "535044",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "535096",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "535147",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "535261",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "535700",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "535861",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "563804",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "563863",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "564126",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "564241",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "564272",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "564520",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "564568",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "565368",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "565392",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "565948",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "565958",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "566205",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "566221",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "566781",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "568345",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "572393",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "572404",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "572592",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "572680",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "572881",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "572923",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "572992",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "573042",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "573484",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "573589",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "573651",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "573704",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "573901",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "574200",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "574281",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "574309",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "574351",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "574435",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "574654",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "574701",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "574887",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "574953",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "575040",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "575142",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "576212",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "576254",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "576340",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "576358",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "576419",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "576449",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "576477",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "576505",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "576533",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "576636",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "576779",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "576817",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "576880",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "577044",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "577068",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "577270",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "577297",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "577449",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "577480",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "577487",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "577569",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "587545",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "587699",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "590625",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "590910",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "591211",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "591215",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "591327",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "591784",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "592495",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "592547",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "593143",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "593251",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "593349",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "602727",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "608516",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "608534",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "608813",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "608912",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "608933",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "609233",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "609531",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "609646",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "610120",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "610149",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "610283",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "610702",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "610726",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "611030",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "611294",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "611558",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "611763",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "611790",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "612342",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "612391",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "612445",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "624957",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "624992",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "625012",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "625236",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "625494",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "625645",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "625767",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "625967",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "626139",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "626156",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "626313",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "626372",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "626450",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "626802",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "626903",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "626981",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "627149",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "627312",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "627507",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "627614",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "627940",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "627972",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "628056",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "628397",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "628650",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "628661",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "643757",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "644807",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "645809",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "645908",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "699551",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "703194",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "703232",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "703248",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "703264",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "703267",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "703317",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "709473",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "710626",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "710683",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "710886",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "711023",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "711357",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "711620",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "712722",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "712749",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "712761",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "712787",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "712850",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "712865",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "712874",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "712887",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "712994",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "713015",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "713268",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "713324",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "713541",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "713743",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "905842",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "906064",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "928474",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "937256",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "937258",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "937261",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "937265",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "937288",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "937301",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "937317",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "937318",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "937319",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "937320",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "937325",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "937336",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "937346",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "937347",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "937364",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "937367",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "937373",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "937384",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "937394",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "939980",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "939985",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "939986",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "939989",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "939995",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "939998",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "940002",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "940004",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "940008",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "940011",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "940012",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "940014",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "940026",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "940029",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "940040",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "940049",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "940052",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "940054",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "940058",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "940060",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "940064",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "940066",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "944612",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "944622",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "944626",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "944638",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "944639",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "944643",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "944645",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "944649",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "944657",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "944660",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "944682",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "944684",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "944687",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "944695",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "944708",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "944716",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "944723",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "944726",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "944744",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "944759",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "944762",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "944766",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "944782",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "944786",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "944788",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "944795",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "944803",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "944804",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "947597",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "947599",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "947611",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "947612",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "947614",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "947615",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "947631",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "947637",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "947638",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "947649",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "947652",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "947655",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "947659",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "947662",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "947663",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "947669",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "947671",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "951047",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "951052",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "951054",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "951057",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "951058",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "951059",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "951064",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "951080",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "951087",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "951088",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "951092",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "951106",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "951110",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "951116",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "951117",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "951139",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "951140",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "951150",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "954557",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "954564",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "954565",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "954584",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "954590",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "954591",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "954597",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "954600",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "954606",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "954611",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "954622",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "954638",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "954639",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "954648",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "954649",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "954650",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "954659",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "954665",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "954674",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "954680",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "954681",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "954684",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "954687",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "954699",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "954703",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "954705",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "954708",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "954712",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "954720",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "954725",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "954735",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "954736",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "954745",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "957952",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "957976",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "957977",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "957986",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "957997",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "958005",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "958006",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "958010",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "958012",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "958013",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "958020",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "962827",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "962831",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "962832",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "962833",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "962836",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "962841",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "962842",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "962870",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "962882",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "962884",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "962897",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "962899",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "962900",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "962905",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "962912",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "962916",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "962929",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "962932",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "962941",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "962943",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "962944",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "962950",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "962956",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Business Studies"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "962957",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Business Studies"
+  }
+]

@@ -1,0 +1,1332 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "522785",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "529335",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "530439",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "530809",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "531256",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "531604",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "531995",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "532614",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "533074",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "533179",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "533489",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "533862",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "534262",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "534571",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "564763",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "564801",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "565650",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "572383",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "572620",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "573899",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "573990",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "574226",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "574299",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "574322",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "576695",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "576905",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "577103",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "577169",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "590965",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "592800",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "592819",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "593131",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "593397",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "601592",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "608513",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "608537",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "608557",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "608662",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "608698",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "609586",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "609763",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "609779",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "610322",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "611232",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "611746",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "611751",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "625776",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "626158",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "627132",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "627297",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "627334",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "627609",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "627896",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "628059",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "628654",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "638990",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "643597",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "644650",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "644717",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "645018",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "703336",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "708820",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "708867",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "709807",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "711507",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "712144",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "712316",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "712707",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "712824",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "712992",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "713096",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "905298",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "937136",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "937141",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "937152",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "937160",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "937163",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "937171",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "937181",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "937191",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "937207",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "937244",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "937245",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "939934",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "939950",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "939951",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "944456",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "944460",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "944461",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "944472",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "944484",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "944485",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "944487",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "944488",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "944521",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "944528",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "944535",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "944536",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "944556",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "944561",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "944565",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "944566",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "944570",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "944582",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "944593",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "944599",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "108",
+    "rollNo": "944603",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "944604",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "947521",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "947523",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "947531",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "947532",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "947537",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "947539",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "947540",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "947547",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "947549",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "947552",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "947556",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "947566",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "947576",
+    "districtName": "Aurangabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "947579",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "947585",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "947588",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "950920",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "950925",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "950928",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "950935",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "950942",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "950949",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "950956",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "950957",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "950960",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "950972",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "950975",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "950982",
+    "districtName": "Banka",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "950988",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "950991",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "950992",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "951004",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "951006",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "951011",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "951012",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "951013",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "951015",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "951016",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "951021",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "951030",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "951042",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "951043",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "954419",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "954420",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "954422",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "954436",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "954449",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "954459",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "954463",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "954477",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "954486",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "954487",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "954490",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "954492",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "954497",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "954501",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "954507",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "954510",
+    "districtName": "Khagaria",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "954511",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "954521",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "954543",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "957906",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "957913",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "957919",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "957929",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "957941",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "957942",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "957947",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "962514",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "962520",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "962529",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "962535",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "962539",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "962540",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "962541",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "962658",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "962661",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "962665",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "962670",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "962671",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "962676",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Accountancy"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "962819",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Accountancy"
+  }
+]

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { VisitorTrackingService } from '../../services/visitor-tracking.service';
 import {LoadingService} from "../../services/loading/loading.service";
+import {DataService} from "../../services/data-service/data.service";
 
 @Component({
   selector: 'app-item-list',
@@ -19,7 +20,6 @@ export class ItemListComponent implements OnInit {
   selectedDistrict = 'all';
   searchTerm = '';
   visitorCount = 0;
-  dataURL = '/assets/data.json';
   fullData:any = [];
   p=1;
   itemPerPage: number = 20;
@@ -27,7 +27,8 @@ export class ItemListComponent implements OnInit {
   constructor(
     private http: HttpClient,
     private visitorService: VisitorTrackingService,
-    private loadingService: LoadingService
+    private loadingService: LoadingService,
+    private dataService:DataService,
   ) {}
 
   ngOnInit(): void {
@@ -36,7 +37,7 @@ export class ItemListComponent implements OnInit {
 
     this.loadingService.show();
 
-    this.http.get<any[]>(this.dataURL).subscribe((data) => {
+    this.dataService.getData().then((data) => {
       this.items = data;
       this.filteredItems = data;
       this.updateDropdowns();
@@ -48,11 +49,11 @@ export class ItemListComponent implements OnInit {
   }
 
   updateDropdowns(): void {
-    this.classes = Array.from(new Set(this.items.map((item) => item.class)));
+    this.classes = Array.from(new Set(this.items.map((item) => item.className)));
     this.subjects = this.selectedClass !== 'all'
       ? Array.from(
         new Set(this.items
-          .filter((item) => item.class === this.selectedClass)
+          .filter((item) => item.className === this.selectedClass)
           .map((item) => item.subject))
       )
       : Array.from(
@@ -79,7 +80,7 @@ export class ItemListComponent implements OnInit {
   filterItems(): void {
     this.filteredItems = this.items.filter((item) => {
       const matchesFilters =
-        (this.selectedClass === 'all' || item.class === this.selectedClass) &&
+        (this.selectedClass === 'all' || item.className === this.selectedClass) &&
         (this.selectedSubject === 'all' || item.subject === this.selectedSubject) &&
         (this.selectedDistrict === 'all' || item.districtName === this.selectedDistrict);
 

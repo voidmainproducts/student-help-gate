@@ -1,0 +1,6323 @@
+[
+  {
+    "serialNo": "1",
+    "rollNo": "523376",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "2",
+    "rollNo": "525784",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "3",
+    "rollNo": "527086",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "4",
+    "rollNo": "527559",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "5",
+    "rollNo": "527710",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "6",
+    "rollNo": "528029",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "7",
+    "rollNo": "528419",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "8",
+    "rollNo": "528704",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "9",
+    "rollNo": "605389",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "10",
+    "rollNo": "624022",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "11",
+    "rollNo": "640153",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "12",
+    "rollNo": "640754",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "13",
+    "rollNo": "641145",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "14",
+    "rollNo": "699656",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "15",
+    "rollNo": "700023",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "16",
+    "rollNo": "702888",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "17",
+    "rollNo": "703156",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "18",
+    "rollNo": "704264",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "19",
+    "rollNo": "705239",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "20",
+    "rollNo": "705578",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "21",
+    "rollNo": "705667",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "22",
+    "rollNo": "705769",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "23",
+    "rollNo": "705857",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "24",
+    "rollNo": "706830",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "25",
+    "rollNo": "707027",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "26",
+    "rollNo": "707573",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "27",
+    "rollNo": "721726",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "28",
+    "rollNo": "729678",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "29",
+    "rollNo": "750712",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "30",
+    "rollNo": "781224",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "31",
+    "rollNo": "855081",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "32",
+    "rollNo": "855353",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "33",
+    "rollNo": "883250",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "34",
+    "rollNo": "897147",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "35",
+    "rollNo": "926324",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "36",
+    "rollNo": "926624",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "37",
+    "rollNo": "930482",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "38",
+    "rollNo": "931822",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "39",
+    "rollNo": "931835",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "40",
+    "rollNo": "931836",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "41",
+    "rollNo": "931864",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "42",
+    "rollNo": "931873",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "43",
+    "rollNo": "931882",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "44",
+    "rollNo": "931886",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "45",
+    "rollNo": "931888",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "46",
+    "rollNo": "931889",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "47",
+    "rollNo": "931901",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "48",
+    "rollNo": "931922",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "49",
+    "rollNo": "931923",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "50",
+    "rollNo": "931954",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "51",
+    "rollNo": "931967",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "52",
+    "rollNo": "931982",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "53",
+    "rollNo": "931992",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "54",
+    "rollNo": "932002",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "55",
+    "rollNo": "932009",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "56",
+    "rollNo": "932012",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "57",
+    "rollNo": "932018",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "58",
+    "rollNo": "932020",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "59",
+    "rollNo": "932034",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "60",
+    "rollNo": "932047",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "61",
+    "rollNo": "932050",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "62",
+    "rollNo": "932052",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "63",
+    "rollNo": "932063",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "64",
+    "rollNo": "932068",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "65",
+    "rollNo": "932182",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "66",
+    "rollNo": "932189",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "67",
+    "rollNo": "932190",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "68",
+    "rollNo": "932191",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "69",
+    "rollNo": "932193",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "70",
+    "rollNo": "932203",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "71",
+    "rollNo": "932209",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "72",
+    "rollNo": "932214",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "73",
+    "rollNo": "932222",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "74",
+    "rollNo": "932228",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "75",
+    "rollNo": "932229",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "76",
+    "rollNo": "932245",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "77",
+    "rollNo": "932249",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "78",
+    "rollNo": "932253",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "79",
+    "rollNo": "932258",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "80",
+    "rollNo": "932261",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "81",
+    "rollNo": "932264",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "82",
+    "rollNo": "932266",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "83",
+    "rollNo": "932267",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "84",
+    "rollNo": "932274",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "85",
+    "rollNo": "932279",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "86",
+    "rollNo": "932304",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "87",
+    "rollNo": "932325",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "88",
+    "rollNo": "932337",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "89",
+    "rollNo": "932341",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "90",
+    "rollNo": "932359",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "91",
+    "rollNo": "932360",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "92",
+    "rollNo": "932366",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "93",
+    "rollNo": "932370",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "94",
+    "rollNo": "932372",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "95",
+    "rollNo": "932387",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "96",
+    "rollNo": "932390",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "97",
+    "rollNo": "932480",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "98",
+    "rollNo": "932483",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "99",
+    "rollNo": "932485",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "100",
+    "rollNo": "932492",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "101",
+    "rollNo": "932501",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "102",
+    "rollNo": "932509",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "103",
+    "rollNo": "932521",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "104",
+    "rollNo": "932529",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "105",
+    "rollNo": "932545",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "106",
+    "rollNo": "932546",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "107",
+    "rollNo": "932549",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "109",
+    "rollNo": "932569",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "110",
+    "rollNo": "932598",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "111",
+    "rollNo": "932602",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "112",
+    "rollNo": "932612",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "113",
+    "rollNo": "932613",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "114",
+    "rollNo": "932615",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "115",
+    "rollNo": "932621",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "116",
+    "rollNo": "932629",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "117",
+    "rollNo": "932631",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "118",
+    "rollNo": "932638",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "119",
+    "rollNo": "932639",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "120",
+    "rollNo": "932646",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "121",
+    "rollNo": "932813",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "122",
+    "rollNo": "932815",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "123",
+    "rollNo": "932819",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "124",
+    "rollNo": "932825",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "125",
+    "rollNo": "932831",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "126",
+    "rollNo": "932834",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "127",
+    "rollNo": "932864",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "128",
+    "rollNo": "932868",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "129",
+    "rollNo": "932869",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "130",
+    "rollNo": "932870",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "131",
+    "rollNo": "932874",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "132",
+    "rollNo": "932884",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "133",
+    "rollNo": "932891",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "134",
+    "rollNo": "932896",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "135",
+    "rollNo": "932915",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "136",
+    "rollNo": "932916",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "137",
+    "rollNo": "932921",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "138",
+    "rollNo": "932926",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "139",
+    "rollNo": "932932",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "140",
+    "rollNo": "932938",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "141",
+    "rollNo": "932953",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "142",
+    "rollNo": "932969",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "143",
+    "rollNo": "932979",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "144",
+    "rollNo": "933013",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "145",
+    "rollNo": "933018",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "146",
+    "rollNo": "933026",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "147",
+    "rollNo": "933033",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "148",
+    "rollNo": "933043",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "149",
+    "rollNo": "933053",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "150",
+    "rollNo": "933058",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "151",
+    "rollNo": "933061",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "152",
+    "rollNo": "933062",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "153",
+    "rollNo": "933157",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "154",
+    "rollNo": "933159",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "155",
+    "rollNo": "933161",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "156",
+    "rollNo": "933171",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "157",
+    "rollNo": "933203",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "158",
+    "rollNo": "933233",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "159",
+    "rollNo": "933241",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "160",
+    "rollNo": "933244",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "161",
+    "rollNo": "933250",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "162",
+    "rollNo": "933304",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "163",
+    "rollNo": "933306",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "164",
+    "rollNo": "933310",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "165",
+    "rollNo": "933317",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "166",
+    "rollNo": "933335",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "167",
+    "rollNo": "933338",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "168",
+    "rollNo": "933476",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "169",
+    "rollNo": "933477",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "170",
+    "rollNo": "933481",
+    "districtName": "Arwal",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "171",
+    "rollNo": "933500",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "172",
+    "rollNo": "933503",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "173",
+    "rollNo": "933517",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "174",
+    "rollNo": "933522",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "175",
+    "rollNo": "933527",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "176",
+    "rollNo": "933528",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "177",
+    "rollNo": "933536",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "178",
+    "rollNo": "933559",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "179",
+    "rollNo": "933564",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "180",
+    "rollNo": "933593",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "181",
+    "rollNo": "933596",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "182",
+    "rollNo": "933599",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "183",
+    "rollNo": "933674",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "184",
+    "rollNo": "933685",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "185",
+    "rollNo": "933686",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "186",
+    "rollNo": "933702",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "187",
+    "rollNo": "933709",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "188",
+    "rollNo": "933728",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "189",
+    "rollNo": "933731",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "190",
+    "rollNo": "933735",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "191",
+    "rollNo": "933738",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "192",
+    "rollNo": "933744",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "193",
+    "rollNo": "933756",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "194",
+    "rollNo": "933760",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "195",
+    "rollNo": "933763",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "196",
+    "rollNo": "933770",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "197",
+    "rollNo": "933771",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "198",
+    "rollNo": "933783",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "199",
+    "rollNo": "933788",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "200",
+    "rollNo": "933797",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "201",
+    "rollNo": "933799",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "202",
+    "rollNo": "933810",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "203",
+    "rollNo": "933949",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "204",
+    "rollNo": "933955",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "205",
+    "rollNo": "933956",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "206",
+    "rollNo": "933961",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "207",
+    "rollNo": "933964",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "208",
+    "rollNo": "933969",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "209",
+    "rollNo": "933981",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "210",
+    "rollNo": "933986",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "211",
+    "rollNo": "933990",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "212",
+    "rollNo": "933997",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "213",
+    "rollNo": "934009",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "214",
+    "rollNo": "934012",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "215",
+    "rollNo": "934014",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "216",
+    "rollNo": "934025",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "217",
+    "rollNo": "934030",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "218",
+    "rollNo": "934043",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "219",
+    "rollNo": "934046",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "220",
+    "rollNo": "934048",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "221",
+    "rollNo": "934062",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "222",
+    "rollNo": "934066",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "223",
+    "rollNo": "934067",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "224",
+    "rollNo": "934068",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "225",
+    "rollNo": "934086",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "226",
+    "rollNo": "934087",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "227",
+    "rollNo": "934097",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "228",
+    "rollNo": "934098",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "229",
+    "rollNo": "934100",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "230",
+    "rollNo": "934131",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "231",
+    "rollNo": "934148",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "232",
+    "rollNo": "934160",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "233",
+    "rollNo": "934164",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "234",
+    "rollNo": "934377",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "235",
+    "rollNo": "934379",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "236",
+    "rollNo": "934399",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "237",
+    "rollNo": "934405",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "238",
+    "rollNo": "934409",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "239",
+    "rollNo": "934437",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "240",
+    "rollNo": "934448",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "241",
+    "rollNo": "934454",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "242",
+    "rollNo": "935923",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "243",
+    "rollNo": "935925",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "244",
+    "rollNo": "935931",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "245",
+    "rollNo": "935937",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "246",
+    "rollNo": "935941",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "247",
+    "rollNo": "935942",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "248",
+    "rollNo": "935948",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "249",
+    "rollNo": "935950",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "250",
+    "rollNo": "935954",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "251",
+    "rollNo": "935957",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "252",
+    "rollNo": "935986",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "253",
+    "rollNo": "935993",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "254",
+    "rollNo": "936009",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "255",
+    "rollNo": "936011",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "256",
+    "rollNo": "936017",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "257",
+    "rollNo": "936032",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "258",
+    "rollNo": "936048",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "259",
+    "rollNo": "936059",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "260",
+    "rollNo": "936077",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "261",
+    "rollNo": "936084",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "262",
+    "rollNo": "936099",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "263",
+    "rollNo": "936100",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "264",
+    "rollNo": "936138",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "265",
+    "rollNo": "936140",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "266",
+    "rollNo": "936168",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "267",
+    "rollNo": "936179",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "268",
+    "rollNo": "936187",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "269",
+    "rollNo": "936189",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "270",
+    "rollNo": "936190",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "271",
+    "rollNo": "936219",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "272",
+    "rollNo": "936232",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "273",
+    "rollNo": "936240",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "274",
+    "rollNo": "936242",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "275",
+    "rollNo": "936247",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "276",
+    "rollNo": "936252",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "277",
+    "rollNo": "936254",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "278",
+    "rollNo": "936256",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "279",
+    "rollNo": "936278",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "280",
+    "rollNo": "936279",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "281",
+    "rollNo": "936306",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "282",
+    "rollNo": "936319",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "283",
+    "rollNo": "936322",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "284",
+    "rollNo": "936338",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "285",
+    "rollNo": "936350",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "286",
+    "rollNo": "936359",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "287",
+    "rollNo": "936361",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "288",
+    "rollNo": "936362",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "289",
+    "rollNo": "936375",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "290",
+    "rollNo": "936381",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "291",
+    "rollNo": "936387",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "292",
+    "rollNo": "936391",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "293",
+    "rollNo": "936400",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "294",
+    "rollNo": "936402",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "295",
+    "rollNo": "936412",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "296",
+    "rollNo": "936418",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "297",
+    "rollNo": "936419",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "298",
+    "rollNo": "936430",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "299",
+    "rollNo": "936438",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "300",
+    "rollNo": "936441",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "301",
+    "rollNo": "936446",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "302",
+    "rollNo": "936464",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "303",
+    "rollNo": "936468",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "304",
+    "rollNo": "936512",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "305",
+    "rollNo": "936515",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "306",
+    "rollNo": "936516",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "307",
+    "rollNo": "936517",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "308",
+    "rollNo": "936530",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "309",
+    "rollNo": "936544",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "310",
+    "rollNo": "936560",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "311",
+    "rollNo": "936561",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "312",
+    "rollNo": "936562",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "313",
+    "rollNo": "936576",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "314",
+    "rollNo": "936580",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "315",
+    "rollNo": "936582",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "316",
+    "rollNo": "936591",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "317",
+    "rollNo": "936622",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "318",
+    "rollNo": "936627",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "319",
+    "rollNo": "936663",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "320",
+    "rollNo": "936664",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "321",
+    "rollNo": "936669",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "322",
+    "rollNo": "936674",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "323",
+    "rollNo": "936689",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "324",
+    "rollNo": "936727",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "325",
+    "rollNo": "936733",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "326",
+    "rollNo": "936741",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "327",
+    "rollNo": "936747",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "328",
+    "rollNo": "936758",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "329",
+    "rollNo": "936767",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "330",
+    "rollNo": "936771",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "331",
+    "rollNo": "936797",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "332",
+    "rollNo": "936798",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "333",
+    "rollNo": "936804",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "334",
+    "rollNo": "936816",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "335",
+    "rollNo": "936818",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "336",
+    "rollNo": "936832",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "337",
+    "rollNo": "936861",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "338",
+    "rollNo": "936867",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "339",
+    "rollNo": "936875",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "340",
+    "rollNo": "936892",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "341",
+    "rollNo": "936902",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "342",
+    "rollNo": "936911",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "343",
+    "rollNo": "936933",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "344",
+    "rollNo": "936938",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "345",
+    "rollNo": "936944",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "346",
+    "rollNo": "936945",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "347",
+    "rollNo": "936955",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "348",
+    "rollNo": "936956",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "349",
+    "rollNo": "936963",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "350",
+    "rollNo": "936970",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "351",
+    "rollNo": "936975",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "352",
+    "rollNo": "936983",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "353",
+    "rollNo": "936994",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "354",
+    "rollNo": "937000",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "355",
+    "rollNo": "937010",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "356",
+    "rollNo": "937031",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "357",
+    "rollNo": "937056",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "358",
+    "rollNo": "937065",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "359",
+    "rollNo": "937091",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "360",
+    "rollNo": "937127",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "361",
+    "rollNo": "937130",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "362",
+    "rollNo": "939399",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "363",
+    "rollNo": "939435",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "364",
+    "rollNo": "939466",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "365",
+    "rollNo": "939498",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "366",
+    "rollNo": "939540",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "367",
+    "rollNo": "939557",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "368",
+    "rollNo": "939586",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "369",
+    "rollNo": "939591",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "370",
+    "rollNo": "939617",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "371",
+    "rollNo": "939634",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "372",
+    "rollNo": "939671",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "373",
+    "rollNo": "939718",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "374",
+    "rollNo": "939723",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "375",
+    "rollNo": "939777",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "376",
+    "rollNo": "939807",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "377",
+    "rollNo": "939915",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "378",
+    "rollNo": "939923",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "379",
+    "rollNo": "943730",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "380",
+    "rollNo": "943733",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "381",
+    "rollNo": "943737",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "382",
+    "rollNo": "943762",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "383",
+    "rollNo": "943767",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "384",
+    "rollNo": "943779",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "385",
+    "rollNo": "943785",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "386",
+    "rollNo": "943808",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "387",
+    "rollNo": "943811",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "388",
+    "rollNo": "943828",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "389",
+    "rollNo": "943835",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "390",
+    "rollNo": "943844",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "391",
+    "rollNo": "943853",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "392",
+    "rollNo": "943897",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "393",
+    "rollNo": "943903",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "394",
+    "rollNo": "943918",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "395",
+    "rollNo": "943925",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "396",
+    "rollNo": "943943",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "397",
+    "rollNo": "943952",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "398",
+    "rollNo": "944019",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "399",
+    "rollNo": "944028",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "400",
+    "rollNo": "944029",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "401",
+    "rollNo": "944059",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "402",
+    "rollNo": "944066",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "403",
+    "rollNo": "944067",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "404",
+    "rollNo": "944073",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "405",
+    "rollNo": "944075",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "406",
+    "rollNo": "944080",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "407",
+    "rollNo": "944093",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "408",
+    "rollNo": "944095",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "409",
+    "rollNo": "944107",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "410",
+    "rollNo": "944121",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "411",
+    "rollNo": "944129",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "412",
+    "rollNo": "944139",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "413",
+    "rollNo": "944140",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "414",
+    "rollNo": "944142",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "415",
+    "rollNo": "944157",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "416",
+    "rollNo": "944162",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "417",
+    "rollNo": "944175",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "418",
+    "rollNo": "944195",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "419",
+    "rollNo": "944197",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "420",
+    "rollNo": "944209",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "421",
+    "rollNo": "944222",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "422",
+    "rollNo": "944259",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "423",
+    "rollNo": "944288",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "424",
+    "rollNo": "944291",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "425",
+    "rollNo": "944309",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "426",
+    "rollNo": "944326",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "427",
+    "rollNo": "944341",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "428",
+    "rollNo": "944345",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "429",
+    "rollNo": "944346",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "430",
+    "rollNo": "944355",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "431",
+    "rollNo": "944362",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "432",
+    "rollNo": "944377",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "433",
+    "rollNo": "944382",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "434",
+    "rollNo": "944387",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "435",
+    "rollNo": "944403",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "436",
+    "rollNo": "944425",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "437",
+    "rollNo": "947051",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "438",
+    "rollNo": "947054",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "439",
+    "rollNo": "947101",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "440",
+    "rollNo": "947115",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "441",
+    "rollNo": "947117",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "442",
+    "rollNo": "947131",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "443",
+    "rollNo": "947132",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "444",
+    "rollNo": "947147",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "445",
+    "rollNo": "947189",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "446",
+    "rollNo": "947198",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "447",
+    "rollNo": "947207",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "448",
+    "rollNo": "947217",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "449",
+    "rollNo": "947246",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "450",
+    "rollNo": "947250",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "451",
+    "rollNo": "947255",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "452",
+    "rollNo": "947273",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "453",
+    "rollNo": "947276",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "454",
+    "rollNo": "947277",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "455",
+    "rollNo": "947279",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "456",
+    "rollNo": "947284",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "457",
+    "rollNo": "947286",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "458",
+    "rollNo": "947290",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "459",
+    "rollNo": "947291",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "460",
+    "rollNo": "947297",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "461",
+    "rollNo": "947303",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "462",
+    "rollNo": "947312",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "463",
+    "rollNo": "947313",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "464",
+    "rollNo": "947331",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "465",
+    "rollNo": "947344",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "466",
+    "rollNo": "947366",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "467",
+    "rollNo": "947367",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "468",
+    "rollNo": "947374",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "469",
+    "rollNo": "947390",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "470",
+    "rollNo": "947403",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "471",
+    "rollNo": "947407",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "472",
+    "rollNo": "947409",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "473",
+    "rollNo": "947412",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "474",
+    "rollNo": "947420",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "475",
+    "rollNo": "947421",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "476",
+    "rollNo": "947424",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "477",
+    "rollNo": "947425",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "478",
+    "rollNo": "947444",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "479",
+    "rollNo": "947449",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "480",
+    "rollNo": "947457",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "481",
+    "rollNo": "947458",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "482",
+    "rollNo": "947467",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "483",
+    "rollNo": "947480",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "484",
+    "rollNo": "947510",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "485",
+    "rollNo": "947511",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "486",
+    "rollNo": "947513",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "487",
+    "rollNo": "950528",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "488",
+    "rollNo": "950537",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "489",
+    "rollNo": "950561",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "490",
+    "rollNo": "950575",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "491",
+    "rollNo": "950595",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "492",
+    "rollNo": "950610",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "493",
+    "rollNo": "950615",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "494",
+    "rollNo": "950634",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "495",
+    "rollNo": "950661",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "496",
+    "rollNo": "950665",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "497",
+    "rollNo": "950668",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "498",
+    "rollNo": "950669",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "499",
+    "rollNo": "950714",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "500",
+    "rollNo": "950725",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "501",
+    "rollNo": "950727",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "502",
+    "rollNo": "950737",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "503",
+    "rollNo": "950749",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "504",
+    "rollNo": "950758",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "505",
+    "rollNo": "950779",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "506",
+    "rollNo": "950805",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "507",
+    "rollNo": "950820",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "508",
+    "rollNo": "950837",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "509",
+    "rollNo": "950869",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "510",
+    "rollNo": "950899",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "511",
+    "rollNo": "950902",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "512",
+    "rollNo": "953792",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "513",
+    "rollNo": "953796",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "514",
+    "rollNo": "953798",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "515",
+    "rollNo": "953801",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "516",
+    "rollNo": "953838",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "517",
+    "rollNo": "953857",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "518",
+    "rollNo": "953862",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "519",
+    "rollNo": "953873",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "520",
+    "rollNo": "953874",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "521",
+    "rollNo": "953886",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "522",
+    "rollNo": "953896",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "523",
+    "rollNo": "953906",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "524",
+    "rollNo": "953919",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "525",
+    "rollNo": "953953",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "526",
+    "rollNo": "953955",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "527",
+    "rollNo": "953956",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "528",
+    "rollNo": "953957",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "529",
+    "rollNo": "953964",
+    "districtName": "Araria",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "530",
+    "rollNo": "953967",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "531",
+    "rollNo": "953981",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "532",
+    "rollNo": "954004",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "533",
+    "rollNo": "954008",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "534",
+    "rollNo": "954011",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "535",
+    "rollNo": "954013",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "536",
+    "rollNo": "954023",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "537",
+    "rollNo": "954027",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "538",
+    "rollNo": "954028",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "539",
+    "rollNo": "954040",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "540",
+    "rollNo": "954048",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "541",
+    "rollNo": "954051",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "542",
+    "rollNo": "954060",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "543",
+    "rollNo": "954074",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "544",
+    "rollNo": "954077",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "545",
+    "rollNo": "954080",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "546",
+    "rollNo": "954095",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "547",
+    "rollNo": "954104",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "548",
+    "rollNo": "954105",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "549",
+    "rollNo": "954113",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "550",
+    "rollNo": "954115",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "551",
+    "rollNo": "954134",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "552",
+    "rollNo": "954155",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "553",
+    "rollNo": "954156",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "554",
+    "rollNo": "954169",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "555",
+    "rollNo": "954170",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "556",
+    "rollNo": "954180",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "557",
+    "rollNo": "954209",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "558",
+    "rollNo": "954210",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "559",
+    "rollNo": "954241",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "560",
+    "rollNo": "954247",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "561",
+    "rollNo": "954267",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "562",
+    "rollNo": "954289",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "563",
+    "rollNo": "954291",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "564",
+    "rollNo": "954342",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "565",
+    "rollNo": "954347",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "566",
+    "rollNo": "954353",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "567",
+    "rollNo": "954358",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "568",
+    "rollNo": "954369",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "569",
+    "rollNo": "954399",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "570",
+    "rollNo": "957016",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "571",
+    "rollNo": "957065",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "572",
+    "rollNo": "957068",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "573",
+    "rollNo": "957107",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "574",
+    "rollNo": "957126",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "575",
+    "rollNo": "957127",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "576",
+    "rollNo": "957132",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "577",
+    "rollNo": "957163",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "578",
+    "rollNo": "957175",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "579",
+    "rollNo": "957182",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "580",
+    "rollNo": "957187",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "581",
+    "rollNo": "957194",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "582",
+    "rollNo": "957206",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "583",
+    "rollNo": "957213",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "584",
+    "rollNo": "957236",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "585",
+    "rollNo": "957243",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "586",
+    "rollNo": "957282",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "587",
+    "rollNo": "957291",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "588",
+    "rollNo": "957297",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "589",
+    "rollNo": "957305",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "590",
+    "rollNo": "957313",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "591",
+    "rollNo": "957327",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "592",
+    "rollNo": "957331",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "593",
+    "rollNo": "957338",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "594",
+    "rollNo": "957361",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "595",
+    "rollNo": "957373",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "596",
+    "rollNo": "957383",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "597",
+    "rollNo": "957408",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "598",
+    "rollNo": "957417",
+    "districtName": "Purbi Champaran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "599",
+    "rollNo": "957419",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "600",
+    "rollNo": "957420",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "601",
+    "rollNo": "957425",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "602",
+    "rollNo": "957428",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "603",
+    "rollNo": "957429",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "604",
+    "rollNo": "957436",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "605",
+    "rollNo": "957443",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "606",
+    "rollNo": "957475",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "607",
+    "rollNo": "957484",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "608",
+    "rollNo": "957494",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "609",
+    "rollNo": "957507",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "610",
+    "rollNo": "957516",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "611",
+    "rollNo": "957540",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "612",
+    "rollNo": "957549",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "613",
+    "rollNo": "957554",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "614",
+    "rollNo": "957557",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "615",
+    "rollNo": "957573",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "616",
+    "rollNo": "957579",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "617",
+    "rollNo": "957583",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "618",
+    "rollNo": "957587",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "619",
+    "rollNo": "957590",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "620",
+    "rollNo": "957670",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "621",
+    "rollNo": "957683",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "622",
+    "rollNo": "957706",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "623",
+    "rollNo": "957720",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "624",
+    "rollNo": "957745",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "625",
+    "rollNo": "957773",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "626",
+    "rollNo": "957791",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "627",
+    "rollNo": "957817",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "628",
+    "rollNo": "957853",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "629",
+    "rollNo": "957862",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "630",
+    "rollNo": "957893",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "631",
+    "rollNo": "958223",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "632",
+    "rollNo": "958224",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "633",
+    "rollNo": "958225",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "634",
+    "rollNo": "958228",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "635",
+    "rollNo": "958268",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "636",
+    "rollNo": "958271",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "637",
+    "rollNo": "958272",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "638",
+    "rollNo": "958275",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "639",
+    "rollNo": "958307",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "640",
+    "rollNo": "958309",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "641",
+    "rollNo": "958310",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "642",
+    "rollNo": "958321",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "643",
+    "rollNo": "958327",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "644",
+    "rollNo": "958337",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "645",
+    "rollNo": "958341",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "646",
+    "rollNo": "958346",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "647",
+    "rollNo": "958347",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "648",
+    "rollNo": "958349",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "649",
+    "rollNo": "958356",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "650",
+    "rollNo": "958361",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "651",
+    "rollNo": "958377",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "652",
+    "rollNo": "958397",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "653",
+    "rollNo": "958630",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "654",
+    "rollNo": "958632",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "655",
+    "rollNo": "958639",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "656",
+    "rollNo": "958647",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "657",
+    "rollNo": "958648",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "658",
+    "rollNo": "958656",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "659",
+    "rollNo": "958660",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "660",
+    "rollNo": "958676",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "661",
+    "rollNo": "958682",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "662",
+    "rollNo": "958695",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "663",
+    "rollNo": "958697",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "664",
+    "rollNo": "958722",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "665",
+    "rollNo": "958723",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "666",
+    "rollNo": "958730",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "667",
+    "rollNo": "958744",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "668",
+    "rollNo": "958746",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "669",
+    "rollNo": "958759",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "670",
+    "rollNo": "958762",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "671",
+    "rollNo": "958775",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "672",
+    "rollNo": "958781",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "673",
+    "rollNo": "958794",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "674",
+    "rollNo": "958826",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "675",
+    "rollNo": "958828",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "676",
+    "rollNo": "958966",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "677",
+    "rollNo": "958967",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "678",
+    "rollNo": "958979",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "679",
+    "rollNo": "958994",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "680",
+    "rollNo": "959010",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "681",
+    "rollNo": "959020",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "682",
+    "rollNo": "959037",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "683",
+    "rollNo": "959042",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "684",
+    "rollNo": "959045",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "685",
+    "rollNo": "959049",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "686",
+    "rollNo": "959053",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "687",
+    "rollNo": "959068",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "688",
+    "rollNo": "959082",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "689",
+    "rollNo": "959088",
+    "districtName": "Madhepura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "690",
+    "rollNo": "959100",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "691",
+    "rollNo": "959107",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "692",
+    "rollNo": "959108",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "693",
+    "rollNo": "959111",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "694",
+    "rollNo": "959112",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "695",
+    "rollNo": "959119",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "696",
+    "rollNo": "959120",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "697",
+    "rollNo": "959129",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "698",
+    "rollNo": "959131",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "699",
+    "rollNo": "959259",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "700",
+    "rollNo": "959300",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "701",
+    "rollNo": "959318",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "702",
+    "rollNo": "959326",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "703",
+    "rollNo": "959332",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "704",
+    "rollNo": "959333",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "705",
+    "rollNo": "959342",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "706",
+    "rollNo": "959347",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "707",
+    "rollNo": "959358",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "708",
+    "rollNo": "959365",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "709",
+    "rollNo": "959369",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "710",
+    "rollNo": "959372",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "711",
+    "rollNo": "959388",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "712",
+    "rollNo": "959402",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "713",
+    "rollNo": "959405",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "714",
+    "rollNo": "959406",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "715",
+    "rollNo": "959416",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "716",
+    "rollNo": "959422",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "717",
+    "rollNo": "959423",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "718",
+    "rollNo": "959431",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "719",
+    "rollNo": "959432",
+    "districtName": "Vaishali",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "720",
+    "rollNo": "959435",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "721",
+    "rollNo": "959441",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "722",
+    "rollNo": "959564",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "723",
+    "rollNo": "959600",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "724",
+    "rollNo": "959606",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "725",
+    "rollNo": "959615",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "726",
+    "rollNo": "959621",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "727",
+    "rollNo": "959629",
+    "districtName": "Gopalganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "728",
+    "rollNo": "959631",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "729",
+    "rollNo": "959656",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "730",
+    "rollNo": "959661",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "731",
+    "rollNo": "959665",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "732",
+    "rollNo": "959668",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "733",
+    "rollNo": "959669",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "734",
+    "rollNo": "959670",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "735",
+    "rollNo": "959688",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "736",
+    "rollNo": "959692",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "737",
+    "rollNo": "959723",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "738",
+    "rollNo": "959730",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "739",
+    "rollNo": "959731",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "740",
+    "rollNo": "959736",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "741",
+    "rollNo": "959877",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "743",
+    "rollNo": "959888",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "744",
+    "rollNo": "959889",
+    "districtName": "Sheikhpura",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "745",
+    "rollNo": "959894",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "746",
+    "rollNo": "959900",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "747",
+    "rollNo": "959914",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "748",
+    "rollNo": "959930",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "749",
+    "rollNo": "959931",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "750",
+    "rollNo": "959945",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "751",
+    "rollNo": "959958",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "752",
+    "rollNo": "959965",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "753",
+    "rollNo": "959973",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "754",
+    "rollNo": "959979",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "755",
+    "rollNo": "959981",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "756",
+    "rollNo": "959984",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "757",
+    "rollNo": "959997",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "758",
+    "rollNo": "960011",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "759",
+    "rollNo": "960013",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "760",
+    "rollNo": "960017",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "761",
+    "rollNo": "960212",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "762",
+    "rollNo": "960214",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "763",
+    "rollNo": "960216",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "764",
+    "rollNo": "960218",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "765",
+    "rollNo": "960236",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "766",
+    "rollNo": "960266",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "767",
+    "rollNo": "960270",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "768",
+    "rollNo": "960272",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "769",
+    "rollNo": "960302",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "770",
+    "rollNo": "960304",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "771",
+    "rollNo": "960309",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "772",
+    "rollNo": "960312",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "773",
+    "rollNo": "960319",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "774",
+    "rollNo": "960334",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "775",
+    "rollNo": "960337",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "776",
+    "rollNo": "960359",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "777",
+    "rollNo": "960370",
+    "districtName": "Sheohar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "778",
+    "rollNo": "960393",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "779",
+    "rollNo": "960398",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "780",
+    "rollNo": "960401",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "781",
+    "rollNo": "960410",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "782",
+    "rollNo": "960422",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "783",
+    "rollNo": "960425",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "784",
+    "rollNo": "960426",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "785",
+    "rollNo": "960430",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "786",
+    "rollNo": "960431",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "787",
+    "rollNo": "960543",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "788",
+    "rollNo": "960556",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "789",
+    "rollNo": "960561",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "790",
+    "rollNo": "960567",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "791",
+    "rollNo": "960573",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "792",
+    "rollNo": "960582",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "793",
+    "rollNo": "960589",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "794",
+    "rollNo": "960596",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "795",
+    "rollNo": "960613",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "796",
+    "rollNo": "960621",
+    "districtName": "Jehanabad",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "797",
+    "rollNo": "960623",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "798",
+    "rollNo": "960640",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "799",
+    "rollNo": "960644",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "800",
+    "rollNo": "960645",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "801",
+    "rollNo": "960648",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "802",
+    "rollNo": "960664",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "803",
+    "rollNo": "960665",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "804",
+    "rollNo": "960667",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "805",
+    "rollNo": "960683",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "806",
+    "rollNo": "960685",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "807",
+    "rollNo": "960686",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "808",
+    "rollNo": "960688",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "809",
+    "rollNo": "960689",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "810",
+    "rollNo": "960699",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "811",
+    "rollNo": "960713",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "812",
+    "rollNo": "961086",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "813",
+    "rollNo": "961088",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "814",
+    "rollNo": "961090",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "815",
+    "rollNo": "961092",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "816",
+    "rollNo": "961094",
+    "districtName": "Begusarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "817",
+    "rollNo": "961097",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "818",
+    "rollNo": "961103",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "819",
+    "rollNo": "961107",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "820",
+    "rollNo": "961110",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "821",
+    "rollNo": "961123",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "822",
+    "rollNo": "961124",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "823",
+    "rollNo": "961133",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "824",
+    "rollNo": "961137",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "825",
+    "rollNo": "961140",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "826",
+    "rollNo": "961144",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "827",
+    "rollNo": "961149",
+    "districtName": "Lakhisarai",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "828",
+    "rollNo": "961150",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "829",
+    "rollNo": "961158",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "830",
+    "rollNo": "961160",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "831",
+    "rollNo": "961174",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "832",
+    "rollNo": "961179",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "833",
+    "rollNo": "961189",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "834",
+    "rollNo": "961197",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "835",
+    "rollNo": "961200",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "836",
+    "rollNo": "961217",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "837",
+    "rollNo": "961224",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "838",
+    "rollNo": "961226",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "839",
+    "rollNo": "961246",
+    "districtName": "Katihar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "840",
+    "rollNo": "961247",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "841",
+    "rollNo": "961276",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "842",
+    "rollNo": "961288",
+    "districtName": "Munger",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "843",
+    "rollNo": "961295",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "844",
+    "rollNo": "961300",
+    "districtName": "Muzaffarpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "845",
+    "rollNo": "961871",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "846",
+    "rollNo": "961933",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "847",
+    "rollNo": "961943",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "848",
+    "rollNo": "961992",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "849",
+    "rollNo": "962005",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "850",
+    "rollNo": "962016",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "851",
+    "rollNo": "962028",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "852",
+    "rollNo": "962060",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "853",
+    "rollNo": "962062",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "854",
+    "rollNo": "962079",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "855",
+    "rollNo": "962100",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "856",
+    "rollNo": "962153",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "857",
+    "rollNo": "962162",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "858",
+    "rollNo": "962185",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "859",
+    "rollNo": "962197",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "860",
+    "rollNo": "962212",
+    "districtName": "Buxar",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "861",
+    "rollNo": "962213",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "862",
+    "rollNo": "962239",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "863",
+    "rollNo": "962244",
+    "districtName": "Rohtas",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "864",
+    "rollNo": "962261",
+    "districtName": "Bhojpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "865",
+    "rollNo": "962265",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "866",
+    "rollNo": "962266",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "867",
+    "rollNo": "962282",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "868",
+    "rollNo": "962285",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "869",
+    "rollNo": "962289",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "870",
+    "rollNo": "962294",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "871",
+    "rollNo": "962301",
+    "districtName": "Saharsa",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "872",
+    "rollNo": "962302",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "873",
+    "rollNo": "962304",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "874",
+    "rollNo": "962306",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "875",
+    "rollNo": "962314",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "876",
+    "rollNo": "962320",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "877",
+    "rollNo": "962323",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "878",
+    "rollNo": "962331",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "879",
+    "rollNo": "962339",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "880",
+    "rollNo": "962342",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "881",
+    "rollNo": "962348",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "882",
+    "rollNo": "962371",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "883",
+    "rollNo": "962390",
+    "districtName": "Patna",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "884",
+    "rollNo": "962444",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "885",
+    "rollNo": "962451",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "886",
+    "rollNo": "962468",
+    "districtName": "Gaya",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "887",
+    "rollNo": "962476",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "888",
+    "rollNo": "962478",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "889",
+    "rollNo": "962486",
+    "districtName": "Saran",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "890",
+    "rollNo": "962490",
+    "districtName": "Kaimur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "891",
+    "rollNo": "962491",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "892",
+    "rollNo": "962495",
+    "districtName": "Nawada",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "893",
+    "rollNo": "962744",
+    "districtName": "Madhubani",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "894",
+    "rollNo": "962748",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "895",
+    "rollNo": "962754",
+    "districtName": "Kishanganj",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "896",
+    "rollNo": "962755",
+    "districtName": "Samastipur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "897",
+    "rollNo": "962757",
+    "districtName": "Supaul",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "898",
+    "rollNo": "962760",
+    "districtName": "Jamui",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "899",
+    "rollNo": "962765",
+    "districtName": "Sitamarhi",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "900",
+    "rollNo": "962768",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "901",
+    "rollNo": "962777",
+    "districtName": "Siwan",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "902",
+    "rollNo": "962779",
+    "districtName": "Bhagalpur",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "904",
+    "rollNo": "962792",
+    "districtName": "Nalanda",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "905",
+    "rollNo": "962793",
+    "districtName": "Purnia",
+    "className": "11-12",
+    "subject": "Computer Science"
+  },
+  {
+    "serialNo": "906",
+    "rollNo": "962804",
+    "districtName": "Pashchim",
+    "className": "11-12",
+    "subject": "Computer Science"
+  }
+]
