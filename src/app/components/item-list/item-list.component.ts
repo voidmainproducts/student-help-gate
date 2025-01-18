@@ -50,6 +50,7 @@ export class ItemListComponent implements OnInit {
 
   updateDropdowns(): void {
     this.classes = Array.from(new Set(this.items.map((item) => item.className)));
+    this.classes.sort((a,b)=> parseInt(a.split("-")[0]) - parseInt(b.split("-")[0]))
     this.subjects = this.selectedClass !== 'all'
       ? Array.from(
         new Set(this.items
