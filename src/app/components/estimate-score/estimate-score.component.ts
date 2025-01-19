@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {ExamScoreEstimateService} from "../../services/exam-score-estimate-service/exam-score-estimate.service";
 import {ActivatedRoute, Router} from "@angular/router";
+import {LoadingService} from "../../services/loading/loading.service";
 
 @Component({
   selector: 'app-estimate-score',
@@ -11,6 +12,7 @@ export class EstimateScoreComponent implements OnInit {
   selectedSet: string = '';
   constructor(private examScoreEstimateService: ExamScoreEstimateService,
               private route: ActivatedRoute,
+              private loadingService: LoadingService,
               private router: Router) {
   }
 
@@ -23,9 +25,12 @@ export class EstimateScoreComponent implements OnInit {
   ngOnInit() {
     const id = this.route.snapshot.paramMap.get('id');
     console.log(id);
-
-    this.exam = this.examScoreEstimateService.getExam(id || '');
-    console.log(this.exam);
+    this.loadingService.show();
+    this.examScoreEstimateService.getExam(id || '').subscribe((response:any) => {
+      this.exam = response.result.data;
+      console.log(this.exam);
+      this.loadingService.hide();
+    })
   }
 
   onSubmit(setKey:string) {
