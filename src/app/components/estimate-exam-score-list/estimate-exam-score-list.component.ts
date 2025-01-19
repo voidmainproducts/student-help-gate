@@ -14,7 +14,7 @@ export class EstimateExamScoreListComponent {
     this.exams = examService.getExams();
   }
 
-  onSelectExam(index: number) {
+  onSelectExam(index: string) {
     this.router.navigate(['/estimate-score', index]);
   }
 }

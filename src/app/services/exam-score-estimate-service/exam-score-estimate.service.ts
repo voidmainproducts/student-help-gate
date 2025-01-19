@@ -6,8 +6,9 @@ import { Injectable } from '@angular/core';
 export class ExamScoreEstimateService {
   private exams: any[] = [
     {
-      id:1,
+      "id": "bpsc-70th-13122024",
       "examName": "BPSC Integrated 70th Combined (Preliminary) Competitive Examination (Date 13-12-2024)",
+      "subjectNane": "General Studies",
       "options": [
         "A",
         "B",
@@ -15,8 +16,8 @@ export class ExamScoreEstimateService {
         "D"
       ],
       "markingScheme": {
-        "correct": 4,
-        "incorrect": -1
+        "correct": 1,
+        "incorrect": -0.25
       },
       "setKeys": [
         "E",
@@ -2435,7 +2436,7 @@ export class ExamScoreEstimateService {
         ]
       }
     }
-  ];
+    ];
 
   private history: any[] = JSON.parse(localStorage.getItem('history') || '[]');
 
@@ -2443,7 +2444,7 @@ export class ExamScoreEstimateService {
     return this.exams;
   }
 
-  getExam(id: number) {
+  getExam(id: string) {
     return this.exams.find(x => x.id === id);
   }
 

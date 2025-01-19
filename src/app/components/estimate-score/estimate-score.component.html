@@ -1,16 +1,26 @@
 <div class="exam-container">
     <h2>{{ exam.examName }}</h2>
-    <h3>SET - {{'E'}}</h3>
-
-    <div *ngIf="isSubmitted">
-        <h3>Score: {{scoreData?.score}}/{{scoreData.maxScore}}</h3>
+    <h3>Subject : {{exam.subjectNane}}</h3>
+    <div class="mb-20">
+        <b>SELECT SET</b>
+        <span *ngFor="let setKey of exam.setKeys">
+            <input type="radio" name="examSet" (change)="onSetSelect(setKey)"><b>{{setKey}}</b>
+        </span>
     </div>
-    <form (ngSubmit)="onSubmit('E')" [ngClass]="{'disabled':isSubmitted}">
-        <div *ngFor="let question of exam.data['E']" class="question-block">
-<!--            <p>{{ question.questionNumber }}. {{ question.questionText }}</p>-->
-            <div>
-                <span class="option-key">{{ question.questionNumber }}.</span>
-                <span *ngFor="let option of exam.options" class="option-block">
+    <div class="mb-20">
+        <b class="mr-20" *ngIf="selectedSet">SET - {{selectedSet}}</b>
+        <b class="mr-20" *ngIf="isSubmitted">Score: {{scoreData?.score}}/{{scoreData.maxScore}}</b>
+        <button class="mr-20" type="button" *ngIf="selectedSet && !isSubmitted" (click)="onSubmit(selectedSet)">Submit</button>
+        <button class="mr-20" type="button" *ngIf="isSubmitted" (click)="restart()">Restart</button>
+    </div>
+
+    <div *ngIf="selectedSet">
+        <form [ngClass]="{'disabled':isSubmitted}">
+            <div *ngFor="let question of exam.data[selectedSet]" class="question-block">
+                <!--            <p>{{ question.questionNumber }}. {{ question.questionText }}</p>-->
+                <div>
+                    <span class="option-key">{{ question.questionNumber }}.</span>
+                    <span *ngFor="let option of exam.options" class="option-block">
                     <input
                             type="radio"
                             [name]="'question_' + question.questionNumber"
@@ -21,12 +31,12 @@
                             'incorrect':isSubmitted && option[0] === userResponses[question.questionNumber] && question.answerKey !== option[0]}"
                     />
                     <label class="option-key">{{ option }}</label>
-                </span> <button type="button" *ngIf="!isSubmitted">clear</button>
+                </span>
+                    <button type="button" *ngIf="!isSubmitted" (click)="userResponses[question.questionNumber]=''">clear</button>
+                </div>
             </div>
-        </div>
-        <br/>
-        <button type="submit" *ngIf="!isSubmitted">Submit</button>
-    </form>
-    <button type="button" *ngIf="isSubmitted" (click)="restart()">Restart</button>
+            <br/>
+        </form>
+    </div>
 
 </div>

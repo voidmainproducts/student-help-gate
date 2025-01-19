@@ -8,6 +8,7 @@ import {ActivatedRoute, Router} from "@angular/router";
   styleUrl: './estimate-score.component.scss'
 })
 export class EstimateScoreComponent implements OnInit {
+  selectedSet: string = '';
   constructor(private examScoreEstimateService: ExamScoreEstimateService,
               private route: ActivatedRoute,
               private router: Router) {
@@ -20,8 +21,10 @@ export class EstimateScoreComponent implements OnInit {
   scoreData:any;
 
   ngOnInit() {
-    const id = +this.route.snapshot.paramMap.get('id')!;
-    this.exam = this.examScoreEstimateService.getExam(id);
+    const id = this.route.snapshot.paramMap.get('id');
+    console.log(id);
+
+    this.exam = this.examScoreEstimateService.getExam(id || '');
     console.log(this.exam);
   }
 
@@ -60,4 +63,9 @@ export class EstimateScoreComponent implements OnInit {
   }
 
   protected readonly Object = Object;
+
+  onSetSelect(setKey:string) {
+    // console.log(setKey);
+    this.selectedSet = setKey
+  }
 }
